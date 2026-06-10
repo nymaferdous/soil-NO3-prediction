@@ -1,0 +1,565 @@
+Site Name,Plot #,Crop,Treatment,Date Soil Sample Collected,NO3 Analysis,NO3,pH,Notes,SRadiation,Prec,WD,WS,AT,RH ,WC,ST,mRH,Lat,Lon
+LP Mineral,1,Switchgrass,Control,4/15/2121,4/16/2021,0.518,4.28,"sandstone, coal small pebbles, limited roots and leaves",77.1,0,137,1.07,7.9,0.719,0.41,11.8,0.719,-79.97972324,39.53026758
+LP Mineral,2,Switchgrass,BioChar + Fertilizer,4/15/2121,4/16/2021,0.507,4.4,"sandstone, coal small pebbles, limited roots and leaves",77.1,0,137,1.07,7.9,0.719,0.41,11.8,0.719,-79.97968203,39.5304303
+LP Mineral,3,Switchgrass,Fertilizer,4/15/2121,4/16/2021,0.537,4,"sandstone, coal small pebbles, limited roots and leaves",77.1,0,137,1.07,7.9,0.719,0.41,11.8,0.719,-79.97986819,39.53027848
+LP Mineral,4,Willow,Control,4/15/2121,4/16/2021,0.5305,4.21,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",77.1,0,137,1.07,7.9,0.719,0.41,11.8,0.719,-79.97922728,39.53008699
+LP Mineral,5,Willow,BioChar + Fertilizer,4/15/2121,4/16/2021,0.4595,4.09,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",77.1,0,137,1.07,7.9,0.719,0.41,11.8,0.719,-79.97948248,39.53011217
+LP Mineral,6,Willow,Fertilizer,4/15/2121,4/16/2021,0.5015,3.69,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",77.1,0,137,1.07,7.9,0.719,0.41,11.8,0.719,-79.97978734,39.53032104
+LP Mineral,19,Switchgrass,Control,4/15/2121,4/16/2021,0.4805,4.29,"sandstone, coal small pebbles, limited roots and leaves",77.1,0,137,1.07,7.9,0.719,0.41,11.8,0.719,-79.97964285,39.53014484
+LP Mineral,20,Switchgrass,Fertilizer,4/15/2121,4/16/2021,0.501,4.18,"sandstone, coal small pebbles, limited roots and leaves",77.1,0,137,1.07,7.9,0.719,0.41,11.8,0.719,-79.9797663,39.53059669
+LP Mineral,21,Switchgrass,BioChar + Fertilizer,4/15/2121,4/16/2021,0.507,4.33,"sandstone, coal small pebbles, limited roots and leaves",77.1,0,137,1.07,7.9,0.719,0.41,11.8,0.719,-79.97968191,39.53013502
+LP Mineral,22,Willow,BioChar + Fertilizer,4/15/2121,4/16/2021,0.5,5.26,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",77.1,0,137,1.07,7.9,0.719,0.41,11.8,0.719,-79.97883552,39.52989658
+LP Mineral,23,Willow,Fertilizer,4/15/2121,4/16/2021,0.559,4.44,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",77.1,0,137,1.07,7.9,0.719,0.41,11.8,0.719,-79.97926995,39.53019909
+LP Mineral,24,Willow,Control,4/15/2121,4/16/2021,0.523,3.34,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",77.1,0,137,1.07,7.9,0.719,0.41,11.8,0.719,-79.97866512,39.53005267
+LP Mineral,1,Switchgrass,Control,7/29/2021,7/30/2021,1.257,4.28,"sandstone, coal small pebbles, limited roots and leaves",120.5,0.373,205,0.69,21.2,0.773,0.211,29.3,0.773,-79.9801942,39.53033164
+LP Mineral,2,Switchgrass,BioChar + Fertilizer,7/29/2021,7/30/2021,0.8305,4.4,"sandstone, coal small pebbles, limited roots and leaves",120.5,0.373,205,0.69,21.2,0.773,0.211,29.3,0.773,-79.9787201,39.52983083
+LP Mineral,3,Switchgrass,Fertilizer,7/29/2021,7/30/2021,0.559,4,"sandstone, coal small pebbles, limited roots and leaves",120.5,0.373,205,0.69,21.2,0.773,0.211,29.3,0.773,-79.97892847,39.52988399
+LP Mineral,4,Willow,Control,7/29/2021,7/30/2021,1.0335,4.21,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",120.5,0.373,205,0.69,21.2,0.773,0.211,29.3,0.773,-79.97957341,39.53028905
+LP Mineral,5,Willow,BioChar + Fertilizer,7/29/2021,7/30/2021,0.8305,4.09,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",120.5,0.373,205,0.69,21.2,0.773,0.211,29.3,0.773,-79.97949341,39.53042108
+LP Mineral,6,Willow,Fertilizer,7/29/2021,7/30/2021,0.773,3.69,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",120.5,0.373,205,0.69,21.2,0.773,0.211,29.3,0.773,-79.97884567,39.52995378
+LP Mineral,19,Switchgrass,Control,7/29/2021,7/30/2021,1.2445,4.29,"sandstone, coal small pebbles, limited roots and leaves",120.5,0.373,205,0.69,21.2,0.773,0.211,29.3,0.773,-79.97879993,39.52982951
+LP Mineral,20,Switchgrass,Fertilizer,7/29/2021,7/30/2021,0.941,4.18,"sandstone, coal small pebbles, limited roots and leaves",120.5,0.373,205,0.69,21.2,0.773,0.211,29.3,0.773,-79.97951871,39.53021093
+LP Mineral,21,Switchgrass,BioChar + Fertilizer,7/29/2021,7/30/2021,1.2995,4.33,"sandstone, coal small pebbles, limited roots and leaves",120.5,0.373,205,0.69,21.2,0.773,0.211,29.3,0.773,-79.97904857,39.53028427
+LP Mineral,22,Willow,BioChar + Fertilizer,7/29/2021,7/30/2021,0.787,5.26,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",120.5,0.373,205,0.69,21.2,0.773,0.211,29.3,0.773,-79.97876275,39.52977576
+LP Mineral,23,Willow,Fertilizer,7/29/2021,7/30/2021,0.478,4.44,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",120.5,0.373,205,0.69,21.2,0.773,0.211,29.3,0.773,-79.98005834,39.53046465
+LP Mineral,24,Willow,Control,7/29/2021,7/30/2021,0.6325,3.34,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",120.5,0.373,205,0.69,21.2,0.773,0.211,29.3,0.773,-79.98003657,39.53037707
+LP Mineral,1,Switchgrass,Control,10/26/2021,10/27/2021,0.682,4.28,"sandstone, coal small pebbles, limited roots and leaves",39.7,0.149,153,1.02,9.6,0.773,0.387,14,0.773,-79.97995763,39.53049705
+LP Mineral,2,Switchgrass,BioChar + Fertilizer,10/26/2021,10/27/2021,0.564,4.4,"sandstone, coal small pebbles, limited roots and leaves",39.7,0.149,153,1.02,9.6,0.953,0.387,14,0.953,-79.97952648,39.53033223
+LP Mineral,3,Switchgrass,Fertilizer,10/26/2021,10/27/2021,0.5275,4,"sandstone, coal small pebbles, limited roots and leaves",39.7,0.149,153,1.02,9.6,0.953,0.387,14,0.953,-79.97978782,39.53021525
+LP Mineral,4,Willow,Control,10/26/2021,10/27/2021,0.522,4.21,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",39.7,0.149,153,1.02,9.6,0.953,0.387,14,0.953,-79.9798109,39.53041095
+LP Mineral,5,Willow,BioChar + Fertilizer,10/26/2021,10/27/2021,0.548,4.09,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",39.7,0.149,153,1.02,9.6,0.953,0.387,14,0.953,-79.97893868,39.52981508
+LP Mineral,6,Willow,Fertilizer,10/26/2021,10/27/2021,0.5385,3.69,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",39.7,0.149,153,1.02,9.6,0.953,0.387,14,0.953,-79.97900507,39.53011821
+LP Mineral,19,Switchgrass,Control,10/26/2021,10/27/2021,0.562,4.29,"sandstone, coal small pebbles, limited roots and leaves",39.7,0.149,153,1.02,9.6,0.953,0.387,14,0.953,-79.97995282,39.53028866
+LP Mineral,20,Switchgrass,Fertilizer,10/26/2021,10/27/2021,0.631,4.18,"sandstone, coal small pebbles, limited roots and leaves",39.7,0.149,153,1.02,9.6,0.953,0.387,14,0.953,-79.97923703,39.53000715
+LP Mineral,21,Switchgrass,BioChar + Fertilizer,10/26/2021,10/27/2021,0.6365,4.33,"sandstone, coal small pebbles, limited roots and leaves",39.7,0.149,153,1.02,9.6,0.953,0.387,14,0.953,-79.97984189,39.53025733
+LP Mineral,22,Willow,BioChar + Fertilizer,10/26/2021,10/27/2021,0.54,5.26,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",39.7,0.149,153,1.02,9.6,0.953,0.387,14,0.953,-79.97987148,39.53051155
+LP Mineral,23,Willow,Fertilizer,10/26/2021,10/27/2021,0.5965,4.44,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",39.7,0.149,153,1.02,9.6,0.953,0.387,14,0.953,-79.97983132,39.53031135
+LP Mineral,24,Willow,Control,10/26/2021,10/27/2021,0.5805,3.34,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",39.7,0.149,153,1.02,9.6,0.953,0.387,14,0.953,-79.97901129,39.52989752
+LP Mineral,1,Switchgrass,Control,1/27/2022,1/28/2022,0.369,4.28,"sandstone, coal small pebbles, limited roots and leaves",100.4,0.024,236,0.81,-8.3,0.733,0.323,0.6,0.733,-79.97917551,39.53027258
+LP Mineral,2,Switchgrass,BioChar + Fertilizer,1/27/2022,1/28/2022,0.3885,4.4,"sandstone, coal small pebbles, limited roots and leaves",100.4,0.024,236,0.81,-8.3,0.733,0.323,0.6,0.733,-79.97969694,39.5304597
+LP Mineral,3,Switchgrass,Fertilizer,1/27/2022,1/28/2022,0.3665,4,"sandstone, coal small pebbles, limited roots and leaves",100.4,0.024,236,0.81,-8.3,0.733,0.323,0.6,0.733,-79.97973134,39.53042024
+LP Mineral,4,Willow,Control,1/27/2022,1/28/2022,0.372,4.21,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",100.4,0.024,236,0.81,-8.3,0.733,0.323,0.6,0.733,-79.97960462,39.53049675
+LP Mineral,5,Willow,BioChar + Fertilizer,1/27/2022,1/28/2022,0.395,4.09,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",100.4,0.024,236,0.81,-8.3,0.733,0.323,0.6,0.733,-79.97970966,39.53047021
+LP Mineral,6,Willow,Fertilizer,1/27/2022,1/28/2022,0.418,3.69,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",100.4,0.024,236,0.81,-8.3,0.733,0.323,0.6,0.733,-79.9794033,39.53008788
+LP Mineral,19,Switchgrass,Control,1/27/2022,1/28/2022,0.381,4.29,"sandstone, coal small pebbles, limited roots and leaves",100.4,0.024,236,0.81,-8.3,0.733,0.323,0.6,0.733,-79.97870583,39.53004472
+LP Mineral,20,Switchgrass,Fertilizer,1/27/2022,1/28/2022,0.399,4.18,"sandstone, coal small pebbles, limited roots and leaves",100.4,0.024,236,0.81,-8.3,0.733,0.323,0.6,0.733,-79.97914177,39.53017845
+LP Mineral,21,Switchgrass,BioChar + Fertilizer,1/27/2022,1/28/2022,0.441,4.33,"sandstone, coal small pebbles, limited roots and leaves",100.4,0.024,236,0.81,-8.3,0.733,0.323,0.6,0.733,-79.97974707,39.53037333
+LP Mineral,22,Willow,BioChar + Fertilizer,1/27/2022,1/28/2022,0.5375,5.26,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",100.4,0.024,236,0.81,-8.3,0.733,0.323,0.6,0.733,-79.97896258,39.52981186
+LP Mineral,23,Willow,Fertilizer,1/27/2022,1/28/2022,0.552,4.44,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",100.4,0.024,236,0.81,-8.3,0.733,0.323,0.6,0.733,-79.97915082,39.52995191
+LP Mineral,24,Willow,Control,1/27/2022,1/28/2022,0.441,3.34,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",100.4,0.024,236,0.81,-8.3,0.733,0.323,0.6,0.733,-79.97896278,39.52984815
+LP Mineral,1,Switchgrass,Control,4/28/2022,4/29/2022,0.61,4.28,"sandstone, coal small pebbles, limited roots and leaves",264.1,0,172,1.23,4.9,0.638,0.414,12,0.638,-79.97861879,39.53010055
+LP Mineral,2,Switchgrass,BioChar + Fertilizer,4/28/2022,4/29/2022,0.576,4.4,"sandstone, coal small pebbles, limited roots and leaves",264.1,0,172,1.23,4.9,0.638,0.414,12,0.638,-79.97939422,39.53040993
+LP Mineral,3,Switchgrass,Fertilizer,4/28/2022,4/29/2022,0.685,4,"sandstone, coal small pebbles, limited roots and leaves",264.1,0,172,1.23,4.9,0.638,0.414,12,0.638,-79.97993554,39.53054022
+LP Mineral,4,Willow,Control,4/28/2022,4/29/2022,0.506,4.21,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",264.1,0,172,1.23,4.9,0.638,0.414,12,0.638,-79.97919359,39.53000393
+LP Mineral,5,Willow,BioChar + Fertilizer,4/28/2022,4/29/2022,0.4765,4.09,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",264.1,0,172,1.23,4.9,0.638,0.414,12,0.638,-79.97938481,39.53019283
+LP Mineral,6,Willow,Fertilizer,4/28/2022,4/29/2022,0.725,3.69,"sandstone, heavy clumps small gravel hard to break up",264.1,0,172,1.23,4.9,0.638,0.414,12,0.638,-79.97970171,39.53037842
+LP Mineral,19,Switchgrass,Control,4/28/2022,4/29/2022,0.6925,4.29,"sandstone, coal small pebbles, limited roots and leaves",264.1,0,172,1.23,4.9,0.638,0.414,12,0.638,-79.97864626,39.529909
+LP Mineral,20,Switchgrass,Fertilizer,4/28/2022,4/29/2022,0.5455,4.18,"sandstone, coal small pebbles, limited roots and leaves",264.1,0,172,1.23,4.9,0.638,0.414,12,0.638,-79.97893737,39.53004064
+LP Mineral,21,Switchgrass,BioChar + Fertilizer,4/28/2022,4/29/2022,0.6505,4.33,"sandstone, coal small pebbles, limited roots and leaves",264.1,0,172,1.23,4.9,0.638,0.414,12,0.638,-79.97952218,39.53037295
+LP Mineral,22,Willow,BioChar + Fertilizer,4/28/2022,4/29/2022,0.7275,5.26,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",264.1,0,172,1.23,4.9,0.638,0.414,12,0.638,-79.97869586,39.52986208
+LP Mineral,23,Willow,Fertilizer,4/28/2022,4/29/2022,0.735,4.44,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",264.1,0,172,1.23,4.9,0.638,0.414,12,0.638,-79.97871297,39.5299293
+LP Mineral,24,Willow,Control,4/28/2022,4/29/2022,0.675,3.34,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",264.1,0,172,1.23,4.9,0.638,0.414,12,0.638,-79.97865175,39.52991329
+LP Mineral,1,Switchgrass,Control,7/28/2022,7/29/2022,0.4525,5.2,"sandstone, coal small pebbles, limited roots and leaves",158.2,0.15,221,0.76,22.5,97.77,0.401,22.5,0.9777,-79.97902916,39.53023979
+LP Mineral,2,Switchgrass,BioChar + Fertilizer,7/28/2022,7/29/2022,0.443,5.1,"sandstone, coal small pebbles, limited roots and leaves",158.2,0.15,221,0.76,22.5,97.77,0.401,22.5,0.9777,-79.97870374,39.52994357
+LP Mineral,3,Switchgrass,Fertilizer,7/28/2022,7/29/2022,0.4965,4.59,"sandstone, coal small pebbles, limited roots and leaves",158.2,0.15,221,0.76,22.5,97.77,0.401,22.5,0.9777,-79.97871914,39.53001379
+LP Mineral,4,Willow,Control,7/28/2022,7/29/2022,0.465,4.67,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",158.2,0.15,221,0.76,22.5,97.77,0.401,22.5,0.9777,-79.98009457,39.53046991
+LP Mineral,5,Willow,BioChar + Fertilizer,7/28/2022,7/29/2022,0.3695,4.19,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",158.2,0.15,221,0.76,22.5,97.77,0.401,22.5,0.9777,-79.97958275,39.53008979
+LP Mineral,6,Willow,Fertilizer,7/28/2022,7/29/2022,0.4505,4.4,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",158.2,0.15,221,0.76,22.5,97.77,0.401,22.5,0.9777,-79.97909899,39.5299141
+LP Mineral,19,Switchgrass,Control,7/28/2022,7/29/2022,0.5795,5.02,"sandstone, coal small pebbles, limited roots and leaves",158.2,0.15,221,0.76,22.5,97.77,0.401,22.5,0.9777,-79.97892431,39.52988736
+LP Mineral,20,Switchgrass,Fertilizer,7/28/2022,7/29/2022,0.4515,5.17,"sandstone, coal small pebbles, limited roots and leaves",158.2,0.15,221,0.76,22.5,97.77,0.401,22.5,0.9777,-79.97934269,39.53034745
+LP Mineral,21,Switchgrass,BioChar + Fertilizer,7/28/2022,7/29/2022,0.4615,5.04,"sandstone, coal small pebbles, limited roots and leaves",158.2,0.15,221,0.76,22.5,97.77,0.401,22.5,0.9777,-79.97920238,39.52998457
+LP Mineral,22,Willow,BioChar + Fertilizer,7/28/2022,7/29/2022,0.458,5.15,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",158.2,0.15,221,0.76,22.5,97.77,0.401,22.5,0.9777,-79.97920291,39.53027133
+LP Mineral,23,Willow,Fertilizer,7/28/2022,7/29/2022,0.491,3.92,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",158.2,0.15,221,0.76,22.5,97.77,0.401,22.5,0.9777,-79.97870662,39.52997693
+LP Mineral,24,Willow,Control,7/28/2022,7/29/2022,0.593,4.62,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",158.2,0.15,221,0.76,22.5,97.77,0.401,22.5,0.9777,-79.97892586,39.53006861
+LP Mineral,1,Switchgrass,Control,10/27/2022,10/28/2022,0.4295,5.2,"sandstone, coal small pebbles, limited roots and leaves",100.6,0.003,251,1.06,7.2,98.77,0.304,10.1,0.9877,-79.97946041,39.53012213
+LP Mineral,2,Switchgrass,BioChar + Fertilizer,10/27/2022,10/28/2022,0.5855,5.1,"sandstone, coal small pebbles, limited roots and leaves",100.6,0.003,251,1.06,7.2,98.77,0.304,10.1,0.9877,-79.97931892,39.5302422
+LP Mineral,3,Switchgrass,Fertilizer,10/27/2022,10/28/2022,0.4065,4.59,"sandstone, coal small pebbles, limited roots and leaves",100.6,0.003,251,1.06,7.2,98.77,0.304,10.1,0.9877,-79.97931077,39.53012733
+LP Mineral,4,Willow,Control,10/27/2022,10/28/2022,0.305,4.67,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",100.6,0.003,251,1.06,7.2,98.77,0.304,10.1,0.9877,-79.97917244,39.53016552
+LP Mineral,5,Willow,BioChar + Fertilizer,10/27/2022,10/28/2022,0.491,4.19,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",100.6,0.003,251,1.06,7.2,98.77,0.304,10.1,0.9877,-79.97863684,39.52999818
+LP Mineral,6,Willow,Fertilizer,10/27/2022,10/28/2022,0.481,4.4,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",100.6,0.003,251,1.06,7.2,98.77,0.304,10.1,0.9877,-79.97862253,39.52995722
+LP Mineral,19,Switchgrass,Control,10/27/2022,10/28/2022,0.516,5.02,"sandstone, coal small pebbles, limited roots and leaves",100.6,0.003,251,1.06,7.2,98.77,0.304,10.1,0.9877,-79.97954944,39.53043234
+LP Mineral,20,Switchgrass,Fertilizer,10/27/2022,10/28/2022,0.5075,5.17,"sandstone, coal small pebbles, limited roots and leaves",100.6,0.003,251,1.06,7.2,98.77,0.304,10.1,0.9877,-79.97915881,39.5301716
+LP Mineral,21,Switchgrass,BioChar + Fertilizer,10/27/2022,10/28/2022,0.447,5.04,"sandstone, coal small pebbles, limited roots and leaves",100.6,0.003,251,1.06,7.2,98.77,0.304,10.1,0.9877,-79.97913206,39.52991965
+LP Mineral,22,Willow,BioChar + Fertilizer,10/27/2022,10/28/2022,0.6565,5.15,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",100.6,0.003,251,1.06,7.2,98.77,0.304,10.1,0.9877,-79.97945618,39.5302158
+LP Mineral,23,Willow,Fertilizer,10/27/2022,10/28/2022,0.427,3.92,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",100.6,0.003,251,1.06,7.2,98.77,0.304,10.1,0.9877,-79.97938555,39.53032742
+LP Mineral,24,Willow,Control,10/27/2022,10/28/2022,0.4395,4.62,"sandstone, limestone, coal (?) small gravel,heavy clumps hard to break up",100.6,0.003,251,1.06,7.2,98.77,0.304,10.1,0.9877,-79.97998942,39.5304982
+Jackson's Mill,1,Willow,BioChar + Fertilizer,4/13/2021,4/14/2021,0.424,4.58,"very few pebbles, limited roots, and leaves",47.6,0.1,200.8,0.9,10.3,0.9,0.3,12.9,0.9,-80.47539688,39.09175362
+Jackson's Mill,2,Willow,Fertilizer,4/13/2021,4/14/2021,0.4665,4.06,"very few pebbles, limited roots, and leaves",47.6,0.1,200.8,0.9,10.3,0.9,0.3,12.9,0.9,-80.47542007,39.09224388
+Jackson's Mill,3,Willow,Control,4/13/2021,4/14/2021,0.467,3.41,"very few pebbles, limited roots, and leaves",47.6,0.1,200.8,0.9,10.3,0.9,0.3,12.9,0.9,-80.47501689,39.09200416
+Jackson's Mill,4,Switchgrass,Fertilizer,4/13/2021,4/14/2021,0.4345,3.58,"very few clumps, easily broken, many roots and leaves",47.6,0.1,200.8,0.9,10.3,0.9,0.3,12.9,0.9,-80.4747593,39.09141978
+Jackson's Mill,5,Switchgrass,BioChar + Fertilizer,4/13/2021,4/14/2021,0.4585,4.71,"very few clumps, easily broken, many roots and leaves",47.6,0.1,200.8,0.9,10.3,0.9,0.3,12.9,0.9,-80.47533004,39.09200467
+Jackson's Mill,6,Switchgrass,Control,4/13/2021,4/14/2021,0.485,4.15,"very few clumps, easily broken, many roots and leaves",47.6,0.1,200.8,0.9,10.3,0.9,0.3,12.9,0.9,-80.47547945,39.09220742
+Jackson's Mill,19,Willow,Fertilizer,4/13/2021,4/14/2021,0.495,4.16,"very few pebbles, limited roots, and leaves",47.6,0.1,200.8,0.9,10.3,0.9,0.3,12.9,0.9,-80.47547196,39.09188344
+Jackson's Mill,20,Willow,Control,4/13/2021,4/14/2021,0.457,3.58,"very few pebbles, limited roots, and leaves",47.6,0.1,200.8,0.9,10.3,0.9,0.3,12.9,0.9,-80.47522744,39.09166286
+Jackson's Mill,21,Willow,BioChar + Fertilizer,4/13/2021,4/14/2021,0.452,3.98,"very few pebbles, limited roots, and leaves",47.6,0.1,200.8,0.9,10.3,0.9,0.3,12.9,0.9,-80.47539858,39.09182751
+Jackson's Mill,22,Switchgrass,Control,4/13/2021,4/14/2021,0.4405,4.03,"very few clumps, easily broken, many roots and leaves",47.6,0.1,200.8,0.9,10.3,0.9,0.3,12.9,0.9,-80.47535793,39.09189125
+Jackson's Mill,23,Switchgrass,Fertilizer,4/13/2021,4/14/2021,0.5095,3.98,"very few clumps, easily broken, many roots and leaves",47.6,0.1,200.8,0.9,10.3,0.9,0.3,12.9,0.9,-80.4746121,39.09141004
+Jackson's Mill,24,Switchgrass,BioChar + Fertilizer,4/13/2021,4/14/2021,0.529,4.35,"very few clumps, easily broken, many roots and leaves",47.6,0.1,200.8,0.9,10.3,0.9,0.3,12.9,0.9,-80.47542549,39.09221374
+Jackson's Mill,1,Willow,BioChar + Fertilizer,7/27/2021,7/28/2021,0.7395,4.58,"very few pebbles, limited roots, and leaves",268.2,0.0,91.0,0.7,22.2,0.8,0.3,22.5,0.8,-80.47505222,39.09180633
+Jackson's Mill,2,Willow,Fertilizer,7/27/2021,7/28/2021,0.648,4.06,"very few pebbles, limited roots, and leaves",268.2,0.0,91.0,0.7,22.2,0.8,0.3,22.5,0.8,-80.47451528,39.09133695
+Jackson's Mill,3,Willow,Control,7/27/2021,7/28/2021,0.6635,3.41,"very few pebbles, limited roots, and leaves",268.2,0.0,91.0,0.7,22.2,0.8,0.3,22.5,0.8,-80.47476979,39.0916454
+Jackson's Mill,4,Switchgrass,Fertilizer,7/27/2021,7/28/2021,0.944,3.58,"very few clumps, easily broken, many roots and leaves",268.2,0.0,91.0,0.7,22.2,0.8,0.3,22.5,0.8,-80.47465987,39.09176296
+Jackson's Mill,5,Switchgrass,BioChar + Fertilizer,7/27/2021,7/28/2021,1.1645,4.71,"very few clumps, easily broken, many roots and leaves",268.2,0.0,91.0,0.7,22.2,0.8,0.3,22.5,0.8,-80.47523978,39.09161282
+Jackson's Mill,6,Switchgrass,Control,7/27/2021,7/28/2021,1.0015,4.15,"very few clumps, easily broken, many roots and leaves",268.2,0.0,91.0,0.7,22.2,0.8,0.3,22.5,0.8,-80.47472024,39.0916758
+Jackson's Mill,19,Willow,Fertilizer,7/27/2021,7/28/2021,0.5985,4.16,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",268.2,0.0,91.0,0.7,22.2,0.8,0.3,22.5,0.8,-80.47507892,39.09150243
+Jackson's Mill,20,Willow,Control,7/27/2021,7/28/2021,0.5875,3.58,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",268.2,0.0,91.0,0.7,22.2,0.8,0.3,22.5,0.8,-80.47472506,39.09155887
+Jackson's Mill,21,Willow,BioChar + Fertilizer,7/27/2021,7/28/2021,0.6365,3.98,"sandstone, coal large gravel ,heavy clumps hard to break up, some grass and roots",268.2,0.0,91.0,0.7,22.2,0.8,0.3,22.5,0.8,-80.47568907,39.09208731
+Jackson's Mill,22,Switchgrass,Control,7/27/2021,7/28/2021,1.6745,4.03,"very few clumps, easily broken, many roots and leaves",268.2,0.0,91.0,0.7,22.2,0.8,0.3,22.5,0.8,-80.4752416,39.09174135
+Jackson's Mill,23,Switchgrass,Fertilizer,7/27/2021,7/28/2021,1.1715,3.98,"very few clumps, easily broken, many roots and leaves",268.2,0.0,91.0,0.7,22.2,0.8,0.3,22.5,0.8,-80.4749683,39.09179181
+Jackson's Mill,24,Switchgrass,BioChar + Fertilizer,7/27/2021,7/28/2021,0.7935,4.35,"very few clumps, easily broken, many roots and leaves",268.2,0.0,91.0,0.7,22.2,0.8,0.3,22.5,0.8,-80.47466244,39.09124339
+Jackson's Mill,1,Willow,BioChar + Fertilizer,10/26/2021,10/27/2021,1.307,4.58,"very few pebbles, limited roots, and leaves",33.8,0.0,206.3,0.7,7.8,0.9,0.3,15.1,0.9,-80.47521684,39.09167484
+Jackson's Mill,2,Willow,Fertilizer,10/26/2021,10/27/2021,0.629,4.06,"very few pebbles, limited roots, and leaves",33.8,0.0,206.3,0.7,7.8,0.9,0.3,15.1,0.9,-80.47442,39.09156224
+Jackson's Mill,3,Willow,Control,10/26/2021,10/27/2021,0.75,3.41,"very few pebbles, limited roots, and leaves",33.8,0.0,206.3,0.7,7.8,0.9,0.3,15.1,0.9,-80.47517149,39.09213179
+Jackson's Mill,4,Switchgrass,Fertilizer,10/26/2021,10/27/2021,0.8995,3.58,"very few clumps, easily broken, many roots and leaves",33.8,0.0,206.3,0.7,7.8,0.9,0.3,15.1,0.9,-80.47460733,39.09170259
+Jackson's Mill,5,Switchgrass,BioChar + Fertilizer,10/26/2021,10/27/2021,0.629,4.71,"very few clumps, easily broken, many roots and leaves",33.8,0.0,206.3,0.7,7.8,0.9,0.3,15.1,0.9,-80.47469525,39.09143434
+Jackson's Mill,6,Switchgrass,Control,10/26/2021,10/27/2021,0.728,4.15,"very few clumps, easily broken, many roots and leaves",33.8,0.0,206.3,0.7,7.8,0.9,0.3,15.1,0.9,-80.47511164,39.09153534
+Jackson's Mill,19,Willow,Fertilizer,10/26/2021,10/27/2021,0.9805,4.16,"very few pebbles, limited roots, and leaves",33.8,0.0,206.3,0.7,7.8,0.9,0.3,15.1,0.9,-80.47435049,39.09143039
+Jackson's Mill,20,Willow,Control,10/26/2021,10/27/2021,1.0835,3.58,"very few pebbles, limited roots, and leaves",33.8,0.0,206.3,0.7,7.8,0.9,0.3,15.1,0.9,-80.47528257,39.09188227
+Jackson's Mill,21,Willow,BioChar + Fertilizer,10/26/2021,10/27/2021,0.804,3.98,"very few pebbles, limited roots, and leaves",33.8,0.0,206.3,0.7,7.8,0.9,0.3,15.1,0.9,-80.47484804,39.09145698
+Jackson's Mill,22,Switchgrass,Control,10/26/2021,10/27/2021,0.7905,4.03,"very few clumps, easily broken, many roots and leaves",33.8,0.0,206.3,0.7,7.8,0.9,0.3,15.1,0.9,-80.47462309,39.09170022
+Jackson's Mill,23,Switchgrass,Fertilizer,10/26/2021,10/27/2021,1.345,3.98,"very few clumps, easily broken, many roots and leaves",33.8,0.0,206.3,0.7,7.8,0.9,0.3,15.1,0.9,-80.47446979,39.09159515
+Jackson's Mill,24,Switchgrass,BioChar + Fertilizer,10/26/2021,10/27/2021,0.6765,4.35,"very few clumps, easily broken, many roots and leaves",33.8,0.0,206.3,0.7,7.8,0.9,0.3,15.1,0.9,-80.47456391,39.09162206
+Jackson's Mill,1,Willow,BioChar + Fertilizer,1/25/2022,1/26/2022,0.7445,4.58,"very few pebbles, limited roots, and leaves",101.8,0.0,215.2,1.1,-8.0,0.8,0.4,2.6,0.8,-80.47570159,39.09194722
+Jackson's Mill,2,Willow,Fertilizer,1/25/2022,1/26/2022,0.4765,4.06,"very few pebbles, limited roots, and leaves",101.8,0.0,215.2,1.1,-8.0,0.8,0.4,2.6,0.8,-80.4751782,39.09194361
+Jackson's Mill,3,Willow,Control,1/25/2022,1/26/2022,0.521,3.41,"very few pebbles, limited roots, and leaves",101.8,0.0,215.2,1.1,-8.0,0.8,0.4,2.6,0.8,-80.47480856,39.09142921
+Jackson's Mill,4,Switchgrass,Fertilizer,1/25/2022,1/26/2022,0.588,3.58,"very few clumps, easily broken, many roots and leaves",101.8,0.0,215.2,1.1,-8.0,0.8,0.4,2.6,0.8,-80.47480612,39.09184881
+Jackson's Mill,5,Switchgrass,BioChar + Fertilizer,1/25/2022,1/26/2022,0.5815,4.71,"very few clumps, easily broken, many roots and leaves",101.8,0.0,215.2,1.1,-8.0,0.8,0.4,2.6,0.8,-80.47512584,39.09212159
+Jackson's Mill,6,Switchgrass,Control,1/25/2022,1/26/2022,0.5385,4.15,"very few clumps, easily broken, many roots and leaves",101.8,0.0,215.2,1.1,-8.0,0.8,0.4,2.6,0.8,-80.47484178,39.09184183
+Jackson's Mill,19,Willow,Fertilizer,1/25/2022,1/26/2022,0.5745,4.16,"very few pebbles, limited roots, and leaves",101.8,0.0,215.2,1.1,-8.0,0.8,0.4,2.6,0.8,-80.47450829,39.09131501
+Jackson's Mill,20,Willow,Control,1/25/2022,1/26/2022,0.579,3.58,"very few pebbles, limited roots, and leaves",101.8,0.0,215.2,1.1,-8.0,0.8,0.4,2.6,0.8,-80.47507777,39.09179542
+Jackson's Mill,21,Willow,BioChar + Fertilizer,1/25/2022,1/26/2022,0.505,3.98,"very few pebbles, limited roots, and leaves",101.8,0.0,215.2,1.1,-8.0,0.8,0.4,2.6,0.8,-80.4747105,39.09166522
+Jackson's Mill,22,Switchgrass,Control,1/25/2022,1/26/2022,0.5985,4.03,"very few clumps, easily broken, many roots and leaves",101.8,0.0,215.2,1.1,-8.0,0.8,0.4,2.6,0.8,-80.47451115,39.09153478
+Jackson's Mill,23,Switchgrass,Fertilizer,1/25/2022,1/26/2022,0.6225,3.98,"very few clumps, easily broken, many roots and leaves",101.8,0.0,215.2,1.1,-8.0,0.8,0.4,2.6,0.8,-80.4753784,39.09217956
+Jackson's Mill,24,Switchgrass,BioChar + Fertilizer,1/25/2022,1/26/2022,0.51,4.35,"very few clumps, easily broken, many roots and leaves",101.8,0.0,215.2,1.1,-8.0,0.8,0.4,2.6,0.8,-80.47443891,39.09141302
+Jackson's Mill,1,Willow,BioChar + Fertilizer,4/26/2022,4/29/2022,0.7125,4.58,"very few pebbles, limited roots, and leaves",235.8,0.0,127.2,1.0,9.4,0.6,0.4,12.3,0.6,-80.47455256,39.09158883
+Jackson's Mill,2,Willow,Fertilizer,4/26/2022,4/29/2022,0.515,4.06,"very few pebbles, limited roots, and leaves",235.8,0.0,127.2,1.0,9.4,0.6,0.4,12.3,0.6,-80.4746859,39.09117344
+Jackson's Mill,3,Willow,Control,4/26/2022,4/29/2022,0.511,3.41,"very few pebbles, limited roots, and leaves",235.8,0.0,127.2,1.0,9.4,0.6,0.4,12.3,0.6,-80.47544017,39.09201296
+Jackson's Mill,4,Switchgrass,Fertilizer,4/26/2022,4/29/2022,0.5765,3.58,"very few clumps, easily broken, many roots and leaves",235.8,0.0,127.2,1.0,9.4,0.6,0.4,12.3,0.6,-80.4744054,39.09155253
+Jackson's Mill,5,Switchgrass,BioChar + Fertilizer,4/26/2022,4/29/2022,0.809,4.71,"very few clumps, easily broken, many roots and leaves",235.8,0.0,127.2,1.0,9.4,0.6,0.4,12.3,0.6,-80.47510366,39.09165871
+Jackson's Mill,6,Switchgrass,Control,4/26/2022,4/29/2022,0.471,4.15,"very few clumps, easily broken, many roots and leaves",235.8,0.0,127.2,1.0,9.4,0.6,0.4,12.3,0.6,-80.47528562,39.09205366
+Jackson's Mill,19,Willow,Fertilizer,4/26/2022,4/29/2022,0.485,4.16,"very few pebbles, limited roots, and leaves",235.8,0.0,127.2,1.0,9.4,0.6,0.4,12.3,0.6,-80.4754332,39.09189422
+Jackson's Mill,20,Willow,Control,4/26/2022,4/29/2022,0.5565,3.58,"very few pebbles, limited roots, and leaves",235.8,0.0,127.2,1.0,9.4,0.6,0.4,12.3,0.6,-80.47546716,39.09184673
+Jackson's Mill,21,Willow,BioChar + Fertilizer,4/26/2022,4/29/2022,0.5635,3.98,"very few pebbles, limited roots, and leaves",235.8,0.0,127.2,1.0,9.4,0.6,0.4,12.3,0.6,-80.47530016,39.09178703
+Jackson's Mill,22,Switchgrass,Control,4/26/2022,4/29/2022,0.5615,4.03,"very few clumps, easily broken, many roots and leaves",235.8,0.0,127.2,1.0,9.4,0.6,0.4,12.3,0.6,-80.47477364,39.09158384
+Jackson's Mill,23,Switchgrass,Fertilizer,4/26/2022,4/29/2022,0.475,3.98,"very few clumps, easily broken, many roots and leaves",235.8,0.0,127.2,1.0,9.4,0.6,0.4,12.3,0.6,-80.47490853,39.09152522
+Jackson's Mill,24,Switchgrass,BioChar + Fertilizer,4/26/2022,4/29/2022,0.5815,4.35,"very few clumps, easily broken, many roots and leaves",235.8,0.0,127.2,1.0,9.4,0.6,0.4,12.3,0.6,-80.47502188,39.09175745
+Jackson's Mill,1,Willow,BioChar + Fertilizer,10/25/2022,10/26/2022,0.419,4.83,"very few pebbles, limited roots, and leaves",29.6,0.1,217.4,0.9,11.0,97.6,0.3,11.8,0.9759916667,-80.47519217,39.09178548
+Jackson's Mill,2,Willow,Fertilizer,10/25/2022,10/26/2022,0.42,4.66,"very few pebbles, limited roots, and leaves",29.6,0.1,217.4,0.9,11.0,97.6,0.3,11.8,0.9759916667,-80.4754783,39.09218083
+Jackson's Mill,3,Willow,Control,10/25/2022,10/26/2022,0.388,4.65,"very few pebbles, limited roots, and leaves",29.6,0.1,217.4,0.9,11.0,97.6,0.3,11.8,0.9759916667,-80.47488488,39.09173115
+Jackson's Mill,4,Switchgrass,Fertilizer,10/25/2022,10/26/2022,0.3635,4.54,"very few clumps, easily broken, many roots and leaves",29.6,0.1,217.4,0.9,11.0,97.6,0.3,11.8,0.9759916667,-80.47492129,39.09150836
+Jackson's Mill,5,Switchgrass,BioChar + Fertilizer,10/25/2022,10/26/2022,0.3745,4.63,"very few clumps, easily broken, many roots and leaves",29.6,0.1,217.4,0.9,11.0,97.6,0.3,11.8,0.9759916667,-80.47500184,39.09136756
+Jackson's Mill,6,Switchgrass,Control,10/25/2022,10/26/2022,0.385,4.46,"very few clumps, easily broken, many roots and leaves",29.6,0.1,217.4,0.9,11.0,97.6,0.3,11.8,0.9759916667,-80.47449295,39.09162123
+Jackson's Mill,19,Willow,Fertilizer,10/25/2022,10/26/2022,0.337,4.64,"very few pebbles, limited roots, and leaves",29.6,0.1,217.4,0.9,11.0,97.6,0.3,11.8,0.9759916667,-80.47492275,39.09151028
+Jackson's Mill,20,Willow,Control,10/25/2022,10/26/2022,0.424,4.43,"very few pebbles, limited roots, and leaves",29.6,0.1,217.4,0.9,11.0,97.6,0.3,11.8,0.9759916667,-80.47486907,39.09187613
+Jackson's Mill,21,Willow,BioChar + Fertilizer,10/25/2022,10/26/2022,0.367,4.5,"very few pebbles, limited roots, and leaves",29.6,0.1,217.4,0.9,11.0,97.6,0.3,11.8,0.9759916667,-80.47519767,39.09178841
+Jackson's Mill,22,Switchgrass,Control,10/25/2022,10/26/2022,0.3705,4.54,"very few clumps, easily broken, many roots and leaves",29.6,0.1,217.4,0.9,11.0,97.6,0.3,11.8,0.9759916667,-80.47516109,39.09186637
+Jackson's Mill,23,Switchgrass,Fertilizer,10/25/2022,10/26/2022,0.5175,4.51,"very few clumps, easily broken, many roots and leaves",29.6,0.1,217.4,0.9,11.0,97.6,0.3,11.8,0.9759916667,-80.47532272,39.09198074
+Jackson's Mill,24,Switchgrass,BioChar + Fertilizer,10/25/2022,10/26/2022,0.495,4.75,"very few clumps, easily broken, many roots and leaves",29.6,0.1,217.4,0.9,11.0,97.6,0.3,11.8,0.9759916667,-80.47552397,39.09217337
+Jackson's Mill,1,Willow,BioChar + Fertilizer,7/26/2022,7/27/2022,0.589,4.83,"very few pebbles, limited roots, and leaves",99.3,0.0,147.3,0.7,22.7,98.0,0.3,23.1,0.9800416667,-80.47495145,39.09189259
+Jackson's Mill,2,Willow,Fertilizer,7/26/2022,7/27/2022,0.499,4.66,"very few pebbles, limited roots, and leaves",99.3,0.0,147.3,0.7,22.7,98.0,0.3,23.1,0.9800416667,-80.47476214,39.09179577
+Jackson's Mill,3,Willow,Control,7/26/2022,7/27/2022,0.9955,4.65,"very few pebbles, limited roots, and leaves",99.3,0.0,147.3,0.7,22.7,98.0,0.3,23.1,0.9800416667,-80.4756061,39.09189637
+Jackson's Mill,4,Switchgrass,Fertilizer,7/26/2022,7/27/2022,0.398,4.54,"very few clumps, easily broken, many roots and leaves",99.3,0.0,147.3,0.7,22.7,98.0,0.3,23.1,0.9800416667,-80.47446281,39.09162825
+Jackson's Mill,5,Switchgrass,BioChar + Fertilizer,7/26/2022,7/27/2022,0.523,4.63,"very few clumps, easily broken, many roots and leaves",99.3,0.0,147.3,0.7,22.7,98.0,0.3,23.1,0.9800416667,-80.47444716,39.09159612
+Jackson's Mill,6,Switchgrass,Control,7/26/2022,7/27/2022,0.5575,4.46,"very few clumps, easily broken, many roots and leaves",99.3,0.0,147.3,0.7,22.7,98.0,0.3,23.1,0.9800416667,-80.47542568,39.09205595
+Jackson's Mill,19,Willow,Fertilizer,7/26/2022,7/27/2022,0.621,4.64,"very few pebbles, limited roots, and leaves",99.3,0.0,147.3,0.7,22.7,98.0,0.3,23.1,0.9800416667,-80.47470853,39.09175968
+Jackson's Mill,20,Willow,Control,7/26/2022,7/27/2022,0.6545,4.43,"very few pebbles, limited roots, and leaves",99.3,0.0,147.3,0.7,22.7,98.0,0.3,23.1,0.9800416667,-80.47541395,39.09225301
+Jackson's Mill,21,Willow,BioChar + Fertilizer,7/26/2022,7/27/2022,0.5585,4.5,"very few pebbles, limited roots, and leaves",99.3,0.0,147.3,0.7,22.7,98.0,0.3,23.1,0.9800416667,-80.47485373,39.09177585
+Jackson's Mill,22,Switchgrass,Control,7/26/2022,7/27/2022,0.503,4.54,"very few clumps, easily broken, many roots and leaves",99.3,0.0,147.3,0.7,22.7,98.0,0.3,23.1,0.9800416667,-80.4754248,39.09209584
+Jackson's Mill,23,Switchgrass,Fertilizer,7/26/2022,7/27/2022,0.578,4.51,"very few clumps, easily broken, many roots and leaves",99.3,0.0,147.3,0.7,22.7,98.0,0.3,23.1,0.9800416667,-80.47541547,39.09192889
+Jackson's Mill,24,Switchgrass,BioChar + Fertilizer,7/26/2022,7/27/2022,0.5155,4.75,"very few clumps, easily broken, many roots and leaves",99.3,0.0,147.3,0.7,22.7,98.0,0.3,23.1,0.9800416667,-80.47509128,39.09179281
+Jackson's Mill,1,Willow,BioChar + Fertilizer,1/17/2023,1/18/2023,0.523,4.83,"very few pebbles, limited roots, and leaves",31.9,0.0,238.7,1.1,6.2,97.9,0.4,5.4,0.9791354167,-80.4754454,39.09200717
+Jackson's Mill,2,Willow,Fertilizer,1/17/2023,1/18/2023,0.5025,4.66,"very few pebbles, limited roots, and leaves",31.9,0.0,238.7,1.1,6.2,97.9,0.4,5.4,0.9791354167,-80.47543571,39.09183301
+Jackson's Mill,3,Willow,Control,1/17/2023,1/18/2023,0.6335,4.65,"very few pebbles, limited roots, and leaves",31.9,0.0,238.7,1.1,6.2,97.9,0.4,5.4,0.9791354167,-80.47455413,39.09129048
+Jackson's Mill,4,Switchgrass,Fertilizer,1/17/2023,1/18/2023,0.686,4.54,"very few clumps, easily broken, many roots and leaves",31.9,0.0,238.7,1.1,6.2,97.9,0.4,5.4,0.9791354167,-80.47448211,39.09164497
+Jackson's Mill,5,Switchgrass,BioChar + Fertilizer,1/17/2023,1/18/2023,0.652,4.63,"very few clumps, easily broken, many roots and leaves",31.9,0.0,238.7,1.1,6.2,97.9,0.4,5.4,0.9791354167,-80.47448786,39.09141705
+Jackson's Mill,6,Switchgrass,Control,1/17/2023,1/18/2023,0.509,4.46,"very few clumps, easily broken, many roots and leaves",31.9,0.0,238.7,1.1,6.2,97.9,0.4,5.4,0.9791354167,-80.47550884,39.09190846
+Jackson's Mill,19,Willow,Fertilizer,1/17/2023,1/18/2023,0.534,4.64,"very few pebbles, limited roots, and leaves",31.9,0.0,238.7,1.1,6.2,97.9,0.4,5.4,0.9791354167,-80.47507319,39.09208303
+Jackson's Mill,20,Willow,Control,1/17/2023,1/18/2023,0.531,4.43,"very few pebbles, limited roots, and leaves",31.9,0.0,238.7,1.1,6.2,97.9,0.4,5.4,0.9791354167,-80.47546567,39.09213544
+Jackson's Mill,21,Willow,BioChar + Fertilizer,1/17/2023,1/18/2023,0.5165,4.5,"very few pebbles, limited roots, and leaves",31.9,0.0,238.7,1.1,6.2,97.9,0.4,5.4,0.9791354167,-80.47515728,39.09149233
+Jackson's Mill,22,Switchgrass,Control,1/17/2023,1/18/2023,0.4705,4.54,"very few clumps, easily broken, many roots and leaves",31.9,0.0,238.7,1.1,6.2,97.9,0.4,5.4,0.9791354167,-80.47504973,39.0917607
+Jackson's Mill,23,Switchgrass,Fertilizer,1/17/2023,1/18/2023,0.5675,4.51,"very few clumps, easily broken, many roots and leaves",31.9,0.0,238.7,1.1,6.2,97.9,0.4,5.4,0.9791354167,-80.47484191,39.09189899
+Jackson's Mill,24,Switchgrass,BioChar + Fertilizer,1/17/2023,1/18/2023,0.78,4.75,"very few clumps, easily broken, many roots and leaves",31.9,0.0,238.7,1.1,6.2,97.9,0.4,5.4,0.9791354167,-80.47532611,39.09175006
+Agron Farm,1,Willow,Fertilizer,4/15/2021,4/16/2021,0.4955,5.29,"easily broken up, few roots and leaves",62.5,0.0,266.5,1.2,5.8,0.8,0.4,11.6,0.8,-79.90291063,39.65804812
+Agron Farm,2,Willow,BioChar + Fertilizer,4/15/2021,4/16/2021,0.493,5.13,"easily broken up, few roots and leaves",62.5,0.0,266.5,1.2,5.8,0.8,0.4,11.6,0.8,-79.90315412,39.65796672
+Agron Farm,3,Willow,Control,4/15/2021,4/16/2021,0.4825,5.05,"easily broken up, few roots and leaves",62.5,0.0,266.5,1.2,5.8,0.8,0.4,11.6,0.8,-79.90297679,39.65812251
+Agron Farm,4,Switchgrass,BioChar + Fertilizer,4/15/2021,4/16/2021,0.506,4.81,"easily broken up, few roots and leaves",62.5,0.0,266.5,1.2,5.8,0.8,0.4,11.6,0.8,-79.90317688,39.65899741
+Agron Farm,5,Switchgrass,Fertilizer,4/15/2021,4/16/2021,0.4895,3.67,"easily broken up, few roots and leaves",62.5,0.0,266.5,1.2,5.8,0.8,0.4,11.6,0.8,-79.90345549,39.65843798
+Agron Farm,6,Switchgrass,Control,4/15/2021,4/16/2021,0.471,4.2,"easily broken up, few roots, leaves",62.5,0.0,266.5,1.2,5.8,0.8,0.4,11.6,0.8,-79.90307241,39.65851419
+Agron Farm,19,Switchgrass,Fertilizer,4/15/2021,4/16/2021,0.4985,4.27,"easily broken up, few roots and leaves",62.5,0.0,266.5,1.2,5.8,0.8,0.4,11.6,0.8,-79.90331436,39.65813965
+Agron Farm,20,Switchgrass,Control,4/15/2021,4/16/2021,0.5075,4.28,"easily broken up, few roots and leaves",62.5,0.0,266.5,1.2,5.8,0.8,0.4,11.6,0.8,-79.90344672,39.65808824
+Agron Farm,21,Switchgrass,BioChar + Fertilizer,4/15/2021,4/16/2021,0.4565,4.28,"easily broken up, few roots and leaves",62.5,0.0,266.5,1.2,5.8,0.8,0.4,11.6,0.8,-79.90355811,39.65914653
+Agron Farm,22,Willow,Control,4/15/2021,4/16/2021,0.484,4.19,"easily broken up, few roots and leaves",62.5,0.0,266.5,1.2,5.8,0.8,0.4,11.6,0.8,-79.90336778,39.6581404
+Agron Farm,23,Willow,BioChar + Fertilizer,4/15/2021,4/16/2021,0.4705,4.24,"easily broken up, few roots and leaves",62.5,0.0,266.5,1.2,5.8,0.8,0.4,11.6,0.8,-79.90334831,39.65812426
+Agron Farm,24,Willow,Fertilizer,4/15/2021,4/16/2021,0.4905,3.74,"easily broken up, few roots and leaves",62.5,0,266.5,1.2,5.8,0.8,0.4,11.6,0.8,-79.90295906,39.65823457
+Agron Farm,1,Willow,Fertilizer,7/29/2021,7/30/2021,1.075,5.29,"easily broken up, few roots and leaves",210.8,0.0,210.4,1.3,21.7,0.8,0.3,21.5,0.8,-79.90309178,39.65791911
+Agron Farm,2,Willow,BioChar + Fertilizer,7/29/2021,7/30/2021,0.839,5.13,"easily broken up, few roots and leaves",210.8,0.0,210.4,1.3,21.7,0.8,0.3,21.5,0.8,-79.90354302,39.65873066
+Agron Farm,3,Willow,Control,7/29/2021,7/30/2021,0.553,5.05,"easily broken up, few roots and leaves",210.8,0.0,210.4,1.3,21.7,0.8,0.3,21.5,0.8,-79.90347879,39.65881
+Agron Farm,4,Switchgrass,BioChar + Fertilizer,7/29/2021,7/30/2021,0.6445,4.81,"easily broken up, few roots and leaves",210.8,0.0,210.4,1.3,21.7,0.8,0.3,21.5,0.8,-79.90321489,39.65817529
+Agron Farm,5,Switchgrass,Fertilizer,7/29/2021,7/30/2021,0.6485,3.67,"easily broken up, few roots and leaves",210.8,0.0,210.4,1.3,21.7,0.8,0.3,21.5,0.8,-79.90329824,39.65900937
+Agron Farm,6,Switchgrass,Control,7/29/2021,7/30/2021,0.5545,4.2,"easily broken up, few roots and leaves",210.8,0.0,210.4,1.3,21.7,0.8,0.3,21.5,0.8,-79.90300671,39.65821159
+Agron Farm,19,Switchgrass,Fertilizer,7/29/2021,7/30/2021,0.5315,4.27,"easily broken up, few roots and leaves",210.8,0.0,210.4,1.3,21.7,0.8,0.3,21.5,0.8,-79.90335096,39.65862014
+Agron Farm,20,Switchgrass,Control,7/29/2021,7/30/2021,0.5235,4.28,"easily broken up, few roots and leaves",210.8,0.0,210.4,1.3,21.7,0.8,0.3,21.5,0.8,-79.90314028,39.65821478
+Agron Farm,21,Switchgrass,BioChar + Fertilizer,7/29/2021,7/30/2021,0.626,4.28,"easily broken up, few roots and leaves",210.8,0.0,210.4,1.3,21.7,0.8,0.3,21.5,0.8,-79.9031287,39.65904445
+Agron Farm,22,Willow,Control,7/29/2021,7/30/2021,0.9285,4.19,"easily broken up, few roots and leaves",210.8,0.0,210.4,1.3,21.7,0.8,0.3,21.5,0.8,-79.90314319,39.65824415
+Agron Farm,23,Willow,BioChar + Fertilizer,7/29/2021,7/30/2021,0.6295,4.24,"easily broken up, few roots and leaves",210.8,0.0,210.4,1.3,21.7,0.8,0.3,21.5,0.8,-79.90355967,39.65901723
+Agron Farm,24,Willow,Fertilizer,7/29/2021,7/30/2021,0.8845,3.74,"easily broken up, few roots and leaves",210.8,0.0,210.4,1.3,21.7,0.8,0.3,21.5,0.8,-79.90329878,39.65874355
+Agron Farm,1,Willow,Fertilizer,10/28/2021,10/29/2021,0.6465,5.29,"easily broken up, few roots and leaves",40.7,0.2,111.4,1.7,12.4,0.9,0.4,14.3,0.9,-79.90323408,39.65902866
+Agron Farm,2,Willow,BioChar + Fertilizer,10/28/2021,10/29/2021,0.581,5.13,"easily broken up, few roots and leaves",40.7,0.2,111.4,1.7,12.4,0.9,0.4,14.3,0.9,-79.90348848,39.65914529
+Agron Farm,3,Willow,Control,10/28/2021,10/29/2021,0.6535,5.05,"easily broken up, few roots and leaves",40.7,0.2,111.4,1.7,12.4,0.9,0.4,14.3,0.9,-79.90322348,39.65884319
+Agron Farm,4,Switchgrass,BioChar + Fertilizer,10/28/2021,10/29/2021,0.543,4.81,"easily broken up, few roots and leaves",40.7,0.2,111.4,1.7,12.4,0.9,0.4,14.3,0.9,-79.90324725,39.65796159
+Agron Farm,5,Switchgrass,Fertilizer,10/28/2021,10/29/2021,0.507,3.67,"easily broken up, few roots and leaves",40.7,0.2,111.4,1.7,12.4,0.9,0.4,14.3,0.9,-79.90318777,39.65903552
+Agron Farm,6,Switchgrass,Control,10/28/2021,10/29/2021,0.504,4.2,"easily broken up, few roots and leaves",40.7,0.2,111.4,1.7,12.4,0.9,0.4,14.3,0.9,-79.90331258,39.65893099
+Agron Farm,19,Switchgrass,Fertilizer,10/28/2021,10/29/2021,0.5155,4.27,"easily broken up, few roots and leaves",40.7,0.2,111.4,1.7,12.4,0.9,0.4,14.3,0.9,-79.90352174,39.65891975
+Agron Farm,20,Switchgrass,Control,10/28/2021,10/29/2021,0.548,4.28,"easily broken up, few roots and leaves",40.7,0.2,111.4,1.7,12.4,0.9,0.4,14.3,0.9,-79.90329681,39.6591617
+Agron Farm,21,Switchgrass,BioChar + Fertilizer,10/28/2021,10/29/2021,0.594,4.28,"easily broken up, few roots and leaves",40.7,0.2,111.4,1.7,12.4,0.9,0.4,14.3,0.9,-79.90337375,39.65900988
+Agron Farm,22,Willow,Control,10/28/2021,10/29/2021,0.6075,4.19,"easily broken up, few roots and leaves",40.7,0.2,111.4,1.7,12.4,0.9,0.4,14.3,0.9,-79.90292735,39.65799953
+Agron Farm,23,Willow,BioChar + Fertilizer,10/28/2021,10/29/2021,0.671,4.24,"easily broken up, few roots and leaves",40.7,0.2,111.4,1.7,12.4,0.9,0.4,14.3,0.9,-79.90331411,39.65904436
+Agron Farm,24,Willow,Fertilizer,10/28/2021,10/29/2021,0.626,3.74,"easily broken up, few roots and leaves",40.7,0.2,111.4,1.7,12.4,0.9,0.4,14.3,0.9,-79.90333731,39.65839387
+Agron Farm,1,Willow,Fertilizer,1/27/2022,1/28/2022,0.4515,5.29,"easily broken up, few roots and leaves",22.3,0.0,150.0,2.1,-2.3,0.9,0.4,1.7,0.9,-79.90328086,39.65791491
+Agron Farm,2,Willow,BioChar + Fertilizer,1/27/2022,1/28/2022,0.538,5.13,"easily broken up, few roots and leaves",22.3,0.0,150.0,2.1,-2.3,0.9,0.4,1.7,0.9,-79.90314961,39.65867948
+Agron Farm,3,Willow,Control,1/27/2022,1/28/2022,0.5735,5.05,"easily broken up, few roots and leaves",22.3,0.0,150.0,2.1,-2.3,0.9,0.4,1.7,0.9,-79.90323711,39.65924627
+Agron Farm,4,Switchgrass,BioChar + Fertilizer,1/27/2022,1/28/2022,0.5115,4.81,"easily broken up, few roots and leaves",22.3,0.0,150.0,2.1,-2.3,0.9,0.4,1.7,0.9,-79.90357736,39.65856305
+Agron Farm,5,Switchgrass,Fertilizer,1/27/2022,1/28/2022,0.4675,3.67,"easily broken up, few roots and leaves",22.3,0.0,150.0,2.1,-2.3,0.9,0.4,1.7,0.9,-79.90349884,39.65897664
+Agron Farm,6,Switchgrass,Control,1/27/2022,1/28/2022,0.4665,4.2,"easily broken up, few roots and leaves",22.3,0.0,150.0,2.1,-2.3,0.9,0.4,1.7,0.9,-79.903466,39.65804903
+Agron Farm,19,Switchgrass,Fertilizer,1/27/2022,1/28/2022,0.5195,4.27,"easily broken up, few roots and leaves",22.3,0.0,150.0,2.1,-2.3,0.9,0.4,1.7,0.9,-79.90335645,39.65874394
+Agron Farm,20,Switchgrass,Control,1/27/2022,1/28/2022,0.482,4.28,"easily broken up, few roots and leaves",22.3,0.0,150.0,2.1,-2.3,0.9,0.4,1.7,0.9,-79.90310499,39.65823912
+Agron Farm,21,Switchgrass,BioChar + Fertilizer,1/27/2022,1/28/2022,0.5125,4.28,"easily broken up, few roots and leaves",22.3,0.0,150.0,2.1,-2.3,0.9,0.4,1.7,0.9,-79.90317361,39.65803293
+Agron Farm,22,Willow,Control,1/27/2022,1/28/2022,0.528,4.19,"easily broken up, few roots and leaves",22.3,0.0,150.0,2.1,-2.3,0.9,0.4,1.7,0.9,-79.90313102,39.65887464
+Agron Farm,23,Willow,BioChar + Fertilizer,1/27/2022,1/28/2022,0.4955,4.24,"easily broken up, few roots and leaves",22.3,0.0,150.0,2.1,-2.3,0.9,0.4,1.7,0.9,-79.9033435,39.65897191
+Agron Farm,24,Willow,Fertilizer,1/27/2022,1/28/2022,0.4785,3.74,"easily broken up, few roots and leaves",22.3,0.0,150.0,2.1,-2.3,0.9,0.4,1.7,0.9,-79.90308537,39.65823026
+Agron Farm,1,Willow,Fertilizer,4/28/2022,4/29/2022,0.5735,5.29,"easily broken up, few roots and leaves",277.9,0.0,62.9,1.6,8.7,0.5,0.4,11.4,0.5,-79.90330354,39.6581539
+Agron Farm,2,Willow,BioChar + Fertilizer,4/28/2022,4/29/2022,0.698,5.13,"easily broken up, few roots and leaves",277.9,0.0,62.9,1.6,8.7,0.5,0.4,11.4,0.5,-79.90340345,39.65866348
+Agron Farm,3,Willow,Control,4/28/2022,4/29/2022,0.618,5.05,"easily broken up, few roots and leaves",277.9,0.0,62.9,1.6,8.7,0.5,0.4,11.4,0.5,-79.90324159,39.65909184
+Agron Farm,4,Switchgrass,BioChar + Fertilizer,4/28/2022,4/29/2022,0.5115,4.81,"easily broken up, few roots and leaves",277.9,0.0,62.9,1.6,8.7,0.5,0.4,11.4,0.5,-79.90302897,39.65862114
+Agron Farm,5,Switchgrass,Fertilizer,4/28/2022,4/29/2022,0.4915,3.67,"easily broken up, few roots and leaves",277.9,0.0,62.9,1.6,8.7,0.5,0.4,11.4,0.5,-79.90331917,39.65802986
+Agron Farm,6,Switchgrass,Control,4/28/2022,4/29/2022,0.3715,4.2,"easily broken up, few roots and leaves",277.9,0.0,62.9,1.6,8.7,0.5,0.4,11.4,0.5,-79.9030052,39.65816054
+Agron Farm,19,Switchgrass,Fertilizer,4/28/2022,4/29/2022,0.395,4.27,"easily broken up, few roots and leaves",277.9,0.0,62.9,1.6,8.7,0.5,0.4,11.4,0.5,-79.9031452,39.65893544
+Agron Farm,20,Switchgrass,Control,4/28/2022,4/29/2022,0.442,4.28,"easily broken up, few roots and leaves",277.9,0.0,62.9,1.6,8.7,0.5,0.4,11.4,0.5,-79.9031664,39.65851041
+Agron Farm,21,Switchgrass,BioChar + Fertilizer,4/28/2022,4/29/2022,0.435,4.28,"easily broken up, few roots and leaves",277.9,0.0,62.9,1.6,8.7,0.5,0.4,11.4,0.5,-79.90356452,39.65855429
+Agron Farm,22,Willow,Control,4/28/2022,4/29/2022,0.456,4.19,"easily broken up, few roots and leaves",277.9,0.0,62.9,1.6,8.7,0.5,0.4,11.4,0.5,-79.90306356,39.65828447
+Agron Farm,23,Willow,BioChar + Fertilizer,4/28/2022,4/29/2022,0.5255,4.24,"easily broken up, few roots and leaves",277.9,0.0,62.9,1.6,8.7,0.5,0.4,11.4,0.5,-79.90326769,39.65790638
+Agron Farm,24,Willow,Fertilizer,4/28/2022,4/29/2022,0.606,3.74,"easily broken up, few roots and leaves",277.9,0.0,62.9,1.6,8.7,0.5,0.4,11.4,0.5,-79.90341824,39.65890067
+Agron Farm,1,Willow,Fertilizer,7/28/2022,7/29/2022,0.346,5.68,"easily broken up, few roots and leaves",122.0,0.1,171.5,0.7,21.9,97.1,0.2,22.1,0.9713729167,-79.90321016,39.65793865
+Agron Farm,2,Willow,BioChar + Fertilizer,7/28/2022,7/29/2022,0.524,5.09,"easily broken up, few roots and leaves",122.0,0.1,171.5,0.7,21.9,97.1,0.2,22.1,0.9713729167,-79.90354688,39.65860697
+Agron Farm,3,Willow,Control,7/28/2022,7/29/2022,0.426,5,"easily broken up, few roots and leaves",122.0,0.1,171.5,0.7,21.9,97.1,0.2,22.1,0.9713729167,-79.90336561,39.6591014
+Agron Farm,4,Switchgrass,BioChar + Fertilizer,7/28/2022,7/29/2022,0.4105,4.95,"easily broken up, few roots and leaves",122.0,0.1,171.5,0.7,21.9,97.1,0.2,22.1,0.9713729167,-79.90319755,39.65851605
+Agron Farm,5,Switchgrass,Fertilizer,7/28/2022,7/29/2022,0.5215,4.97,"easily broken up, few roots and leaves",122.0,0.1,171.5,0.7,21.9,97.1,0.2,22.1,0.9713729167,-79.903215,39.65849103
+Agron Farm,6,Switchgrass,Control,7/28/2022,7/29/2022,0.4775,4.94,"easily broken up, few roots and leaves",122.0,0.1,171.5,0.7,21.9,97.1,0.2,22.1,0.9713729167,-79.90338981,39.65864816
+Agron Farm,19,Switchgrass,Fertilizer,7/28/2022,7/29/2022,0.466,4.8,"easily broken up, few roots and leaves",122.0,0.1,171.5,0.7,21.9,97.1,0.2,22.1,0.9713729167,-79.90338898,39.65870783
+Agron Farm,20,Switchgrass,Control,7/28/2022,7/29/2022,0.646,5.07,"easily broken up, few roots and leaves",122.0,0.1,171.5,0.7,21.9,97.1,0.2,22.1,0.9713729167,-79.90318667,39.65890369
+Agron Farm,21,Switchgrass,BioChar + Fertilizer,7/28/2022,7/29/2022,0.525,4.63,"easily broken up, few roots and leaves",122.0,0.1,171.5,0.7,21.9,97.1,0.2,22.1,0.9713729167,-79.90314396,39.65903849
+Agron Farm,22,Willow,Control,7/28/2022,7/29/2022,0.6085,4.67,"easily broken up, few roots and leaves",122.0,0.1,171.5,0.7,21.9,97.1,0.2,22.1,0.9713729167,-79.90302323,39.65857129
+Agron Farm,23,Willow,BioChar + Fertilizer,7/28/2022,7/29/2022,0.5335,4.9,"easily broken up, few roots and leaves",122.0,0.1,171.5,0.7,21.9,97.1,0.2,22.1,0.9713729167,-79.90337144,39.6592053
+Agron Farm,24,Willow,Fertilizer,7/28/2022,7/29/2022,0.555,4.48,"easily broken up, few roots and leaves",122.0,0.1,171.5,0.7,21.9,97.1,0.2,22.1,0.9713729167,-79.90319976,39.65926186
+Agron Farm,1,Willow,Fertilizer,10/27/2022,10/28/2022,0.5415,5.68,"easily broken up, few roots and leaves",103.5,0.0,125.9,1.0,8.1,98.4,0.3,11.3,0.9838083333,-79.90348453,39.65880486
+Agron Farm,2,Willow,BioChar + Fertilizer,10/27/2022,10/28/2022,0.312,5.09,"easily broken up, few roots and leaves",103.5,0.0,125.9,1.0,8.1,98.4,0.3,11.3,0.9838083333,-79.90338625,39.65835696
+Agron Farm,3,Willow,Control,10/27/2022,10/28/2022,0.481,5,"easily broken up, few roots and leaves",103.5,0.0,125.9,1.0,8.1,98.4,0.3,11.3,0.9838083333,-79.90324817,39.65835946
+Agron Farm,4,Switchgrass,BioChar + Fertilizer,10/27/2022,10/28/2022,0.498,4.95,"easily broken up, few roots and leaves",103.5,0.0,125.9,1.0,8.1,98.4,0.3,11.3,0.9838083333,-79.90376005,39.65913422
+Agron Farm,5,Switchgrass,Fertilizer,10/27/2022,10/28/2022,0.455,4.97,"easily broken up, few roots and leaves",103.5,0.0,125.9,1.0,8.1,98.4,0.3,11.3,0.9838083333,-79.90313671,39.65880791
+Agron Farm,6,Switchgrass,Control,10/27/2022,10/28/2022,0.421,4.94,"easily broken up, few roots and leaves",103.5,0.0,125.9,1.0,8.1,98.4,0.3,11.3,0.9838083333,-79.90343895,39.65886581
+Agron Farm,19,Switchgrass,Fertilizer,10/27/2022,10/28/2022,0.3965,4.8,"easily broken up, few roots and leaves",103.5,0.0,125.9,1.0,8.1,98.4,0.3,11.3,0.9838083333,-79.90362179,39.65879176
+Agron Farm,20,Switchgrass,Control,10/27/2022,10/28/2022,0.438,5.07,"easily broken up, few roots and leaves",103.5,0.0,125.9,1.0,8.1,98.4,0.3,11.3,0.9838083333,-79.90365777,39.65917656
+Agron Farm,21,Switchgrass,BioChar + Fertilizer,10/27/2022,10/28/2022,0.4675,4.63,"easily broken up, few roots and leaves",103.5,0.0,125.9,1.0,8.1,98.4,0.3,11.3,0.9838083333,-79.90359327,39.65862841
+Agron Farm,22,Willow,Control,10/27/2022,10/28/2022,0.436,4.67,"easily broken up, few roots and leaves",103.5,0.0,125.9,1.0,8.1,98.4,0.3,11.3,0.9838083333,-79.90312161,39.65810608
+Agron Farm,23,Willow,BioChar + Fertilizer,10/27/2022,10/28/2022,0.3935,4.9,"easily broken up, few roots and leaves",103.5,0.0,125.9,1.0,8.1,98.4,0.3,11.3,0.9838083333,-79.90347258,39.65885195
+Agron Farm,24,Willow,Fertilizer,10/27/2022,10/28/2022,0.473,4.48,"easily broken up, few roots and leaves",103.5,0.0,125.9,1.0,8.1,98.4,0.3,11.3,0.9838083333,-79.90342847,39.65897468
+Agron Farm,1,Willow,Fertilizer,1/19/2023,1/20/2023,0.4575,5.68,"easily broken up, few roots and leaves",13.6,0.4,109.4,1.8,7.4,96.4,0.4,5.7,0.9636538462,-79.90306856,39.65822264
+Agron Farm,2,Willow,BioChar + Fertilizer,1/19/2023,1/20/2023,0.356,5.09,"easily broken up, few roots and leaves",13.6,0.4,109.4,1.8,7.4,96.4,0.4,5.7,0.9636538462,-79.90367058,39.65876034
+Agron Farm,3,Willow,Control,1/19/2023,1/20/2023,0.4765,5,"easily broken up, few roots and leaves",13.6,0.4,109.4,1.8,7.4,96.4,0.4,5.7,0.9636538462,-79.90311387,39.6579849
+Agron Farm,4,Switchgrass,BioChar + Fertilizer,1/19/2023,1/20/2023,0.4275,4.95,"easily broken up, few roots and leaves",13.6,0.4,109.4,1.8,7.4,96.4,0.4,5.7,0.9636538462,-79.90307207,39.65869454
+Agron Farm,5,Switchgrass,Fertilizer,1/19/2023,1/20/2023,0.3535,4.97,"easily broken up, few roots and leaves",13.6,0.4,109.4,1.8,7.4,96.4,0.4,5.7,0.9636538462,-79.90333638,39.65902431
+Agron Farm,6,Switchgrass,Control,1/19/2023,1/20/2023,0.429,4.94,"easily broken up, few roots and leaves",13.6,0.4,109.4,1.8,7.4,96.4,0.4,5.7,0.9636538462,-79.9035684,39.65886073
+Agron Farm,19,Switchgrass,Fertilizer,1/19/2023,1/20/2023,0.442,4.8,"easily broken up, few roots and leaves",13.6,0.4,109.4,1.8,7.4,96.4,0.4,5.7,0.9636538462,-79.90324793,39.65865543
+Agron Farm,20,Switchgrass,Control,1/19/2023,1/20/2023,0.52,5.07,"easily broken up, few roots and leaves",13.6,0.4,109.4,1.8,7.4,96.4,0.4,5.7,0.9636538462,-79.90329605,39.65850859
+Agron Farm,21,Switchgrass,BioChar + Fertilizer,1/19/2023,1/20/2023,0.4335,4.63,"easily broken up, few roots and leaves",13.6,0.4,109.4,1.8,7.4,96.4,0.4,5.7,0.9636538462,-79.9031897,39.65918095
+Agron Farm,22,Willow,Control,1/19/2023,1/20/2023,0.3835,4.67,"easily broken up, few roots and leaves",13.6,0.4,109.4,1.8,7.4,96.4,0.4,5.7,0.9636538462,-79.90332927,39.65916614
+Agron Farm,23,Willow,BioChar + Fertilizer,1/19/2023,1/20/2023,0.4785,4.9,"easily broken up, few roots and leaves",13.6,0.4,109.4,1.8,7.4,96.4,0.4,5.7,0.9636538462,-79.90335055,39.65852793
+Agron Farm,24,Willow,Fertilizer,1/19/2023,1/20/2023,0.476,4.48,"easily broken up, few roots and leaves",13.6,0.4,109.4,1.8,7.4,96.4,0.4,5.7,0.9636538462,-79.90315215,39.6584965
+Allstar #1,7,Willow,BioChar + Fertilizer,4/13/2021,4/14/2021,0.409,5.03,"few pebbles-coal/shale, some moss",48.0,0.1,159.7,0.7,9.9,0.9,0.2,13.7,0.9,-80.29864217,39.06272713
+Allstar #1,8,Willow,Control,4/13/2021,4/14/2021,0.403,5.32,"few pebbles-coal/shale, some moss",48.0,0.1,159.7,0.7,9.9,0.9,0.2,13.7,0.9,-80.29864754,39.06266116
+Allstar #1,9,Willow,Fertilizer,4/13/2021,4/14/2021,0.3735,5.49,"few pebbles-coal/shale, some moss",48.0,0.1,159.7,0.7,9.9,0.9,0.2,13.7,0.9,-80.29823652,39.06296009
+Allstar #1,10,Switchgrass,Fertilizer,4/13/2021,4/14/2021,0.3735,5.28,"some gravel coal/shale, few roots, and leaves",48.0,0.1,159.7,0.7,9.9,0.9,0.2,13.7,0.9,-80.2982343,39.06280758
+Allstar #1,11,Switchgrass,Control,4/13/2021,4/14/2021,0.3415,4.6,"some gravel coal/shale, few roots, and leaves",48.0,0.1,159.7,0.7,9.9,0.9,0.2,13.7,0.9,-80.29809928,39.06263877
+Allstar #1,12,Switchgrass,BioChar + Fertilizer,4/13/2021,4/14/2021,0.408,4.78,"some gravel coal/shale, few roots, and leaves",48.0,0.1,159.7,0.7,9.9,0.9,0.2,13.7,0.9,-80.29750844,39.06284623
+Allstar #1,19,Willow,BioChar + Fertilizer,4/13/2021,4/14/2021,0.4185,4.76,"many pebbles-coal/shale, some roots and moss",48.0,0.1,159.7,0.7,9.9,0.9,0.2,13.7,0.9,-80.29887419,39.06262767
+Allstar #1,20,Willow,Control,4/13/2021,4/14/2021,0.5095,4.61,"many pebbles-coal/shale, some roots and moss",48.0,0.1,159.7,0.7,9.9,0.9,0.2,13.7,0.9,-80.29849275,39.0628454
+Allstar #1,21,Willow,Fertilizer,4/13/2021,4/14/2021,0.4215,5.08,"many pebbles-coal/shale, some roots and moss",48.0,0.1,159.7,0.7,9.9,0.9,0.2,13.7,0.9,-80.29645508,39.06271294
+Allstar #1,22,Switchgrass,Fertilizer,4/13/2021,4/14/2021,0.4595,5.01,"big piece of wood, roots and leaves",48.0,0.1,159.7,0.7,9.9,0.9,0.2,13.7,0.9,-80.29769946,39.06303606
+Allstar #1,23,Switchgrass,Control,4/13/2021,4/14/2021,0.446,5.03,"big piece of wood, roots and leaves",48.0,0.1,159.7,0.7,9.9,0.9,0.2,13.7,0.9,-80.29813287,39.06265069
+Allstar #1,24,Switchgrass,BioChar + Fertilizer,4/13/2021,4/14/2021,0.5455,3.95,"big piece of wood, roots and leaves",48.0,0.1,159.7,0.7,9.9,0.9,0.2,13.7,0.9,-80.29710409,39.06284039
+Allstar #1,7,Willow,BioChar + Fertilizer,7/27/2021,7/28/2021,0.5705,5.03,"few pebbles-coal/shale, some moss",261.0,0.0,167.8,0.8,21.9,0.8,0.2,23.0,0.8,-80.29678672,39.06268262
+Allstar #1,8,Willow,Control,7/27/2021,7/28/2021,0.6095,5.32,"few pebbles-coal/shale, some moss",261.0,0.0,167.8,0.8,21.9,0.8,0.2,23.0,0.8,-80.29780386,39.06264029
+Allstar #1,9,Willow,Fertilizer,7/27/2021,7/28/2021,0.589,5.49,"few pebbles-coal/shale, some moss",261.0,0.0,167.8,0.8,21.9,0.8,0.2,23.0,0.8,-80.29657462,39.06276591
+Allstar #1,10,Switchgrass,Fertilizer,7/27/2021,7/28/2021,0.8405,5.28,"some gravel coal/shale, few roots, and leaves",261.0,0.0,167.8,0.8,21.9,0.8,0.2,23.0,0.8,-80.29654685,39.0625997
+Allstar #1,11,Switchgrass,Control,7/27/2021,7/28/2021,0.606,4.6,"some gravel coal/shale, few roots, and leaves",261.0,0.0,167.8,0.8,21.9,0.8,0.2,23.0,0.8,-80.29705689,39.06286647
+Allstar #1,12,Switchgrass,BioChar + Fertilizer,7/27/2021,7/28/2021,0.7305,4.78,"some gravel coal/shale, few roots, and leaves",261.0,0.0,167.8,0.8,21.9,0.8,0.2,23.0,0.8,-80.29884599,39.06270139
+Allstar #1,19,Willow,BioChar + Fertilizer,7/27/2021,7/28/2021,0.598,4.76,"many pebbles-coal/shale, some roots and moss",261.0,0.0,167.8,0.8,21.9,0.8,0.2,23.0,0.8,-80.29876106,39.06272129
+Allstar #1,20,Willow,Control,7/27/2021,7/28/2021,0.5525,4.61,"many pebbles-coal/shale, some roots and moss",261.0,0.0,167.8,0.8,21.9,0.8,0.2,23.0,0.8,-80.29801033,39.06276749
+Allstar #1,21,Willow,Fertilizer,7/27/2021,7/28/2021,0.596,5.08,"many pebbles-coal/shale, some roots and moss",261.0,0.0,167.8,0.8,21.9,0.8,0.2,23.0,0.8,-80.29732406,39.06286933
+Allstar #1,22,Switchgrass,Fertilizer,7/27/2021,7/28/2021,0.663,5.01,"big piece of wood, roots and leaves",261.0,0.0,167.8,0.8,21.9,0.8,0.2,23.0,0.8,-80.29640034,39.06279825
+Allstar #1,23,Switchgrass,Control,7/27/2021,7/28/2021,0.5855,5.03,"big piece of wood, roots and leaves",261.0,0.0,167.8,0.8,21.9,0.8,0.2,23.0,0.8,-80.29674093,39.06275865
+Allstar #1,24,Switchgrass,BioChar + Fertilizer,7/27/2021,7/28/2021,0.594,3.95,"big piece of wood, roots and leaves",261.0,0.0,167.8,0.8,21.9,0.8,0.2,23.0,0.8,-80.29659901,39.06274396
+Allstar #1,7,Willow,BioChar + Fertilizer,10/26/2021,10/27/2021,0.6075,5.03,"few pebbles-coal/shale, some moss",35.2,0.0,197.1,0.7,7.1,0.9,0.3,15.1,0.9,-80.29702807,39.06286737
+Allstar #1,8,Willow,Control,10/26/2021,10/27/2021,0.574,5.32,"few pebbles-coal/shale, some moss",35.2,0.0,197.1,0.7,7.1,0.9,0.3,15.1,0.9,-80.29813555,39.06279614
+Allstar #1,9,Willow,Fertilizer,10/26/2021,10/27/2021,0.6965,5.49,"few pebbles-coal/shale, some moss",35.2,0.0,197.1,0.7,7.1,0.9,0.3,15.1,0.9,-80.29814111,39.06293367
+Allstar #1,10,Switchgrass,Fertilizer,10/26/2021,10/27/2021,0.6845,5.28,"some gravel coal/shale, few roots, and leaves",35.2,0.0,197.1,0.7,7.1,0.9,0.3,15.1,0.9,-80.29809698,39.06281929
+Allstar #1,11,Switchgrass,Control,10/26/2021,10/27/2021,0.629,4.6,"some gravel coal/shale, few roots, and leaves",35.2,0.0,197.1,0.7,7.1,0.9,0.3,15.1,0.9,-80.29837285,39.06278047
+Allstar #1,12,Switchgrass,BioChar + Fertilizer,10/26/2021,10/27/2021,0.525,4.78,"some gravel coal/shale, few roots, and leaves",35.2,0.0,197.1,0.7,7.1,0.9,0.3,15.1,0.9,-80.29757468,39.0628895
+Allstar #1,19,Willow,BioChar + Fertilizer,10/26/2021,10/27/2021,0.7505,4.76,"many pebbles-coal/shale, some roots and moss",35.2,0.0,197.1,0.7,7.1,0.9,0.3,15.1,0.9,-80.29665008,39.06285368
+Allstar #1,20,Willow,Control,10/26/2021,10/27/2021,0.56,4.61,"many pebbles-coal/shale, some roots and moss",35.2,0.0,197.1,0.7,7.1,0.9,0.3,15.1,0.9,-80.29753711,39.06294886
+Allstar #1,21,Willow,Fertilizer,10/26/2021,10/27/2021,0.5325,5.08,"many pebbles-coal/shale, some roots and moss",35.2,0.0,197.1,0.7,7.1,0.9,0.3,15.1,0.9,-80.29865495,39.06276093
+Allstar #1,22,Switchgrass,Fertilizer,10/26/2021,10/27/2021,0.678,5.01,"big piece of wood, roots and leaves",35.2,0.0,197.1,0.7,7.1,0.9,0.3,15.1,0.9,-80.29813996,39.06287147
+Allstar #1,23,Switchgrass,Control,10/26/2021,10/27/2021,0.5235,5.03,"big piece of wood, roots and leaves",35.2,0.0,197.1,0.7,7.1,0.9,0.3,15.1,0.9,-80.29760499,39.06275052
+Allstar #1,24,Switchgrass,BioChar + Fertilizer,10/26/2021,10/27/2021,0.6135,3.95,"big piece of wood, roots and leaves",35.2,0.0,197.1,0.7,7.1,0.9,0.3,15.1,0.9,-80.29651256,39.0628253
+Allstar #1,7,Willow,BioChar + Fertilizer,1/25/2022,1/26/2022,0.485,5.03,"few pebbles-coal/shale, some moss",100.4,0.0,177.9,1.1,-7.1,0.8,0.3,3.0,0.8,-80.29685793,39.0627893
+Allstar #1,8,Willow,Control,1/25/2022,1/26/2022,0.4265,5.32,"few pebbles-coal/shale, some moss",100.4,0.0,177.9,1.1,-7.1,0.8,0.3,3.0,0.8,-80.29777159,39.06293845
+Allstar #1,9,Willow,Fertilizer,1/25/2022,1/26/2022,0.39,5.49,"few pebbles-coal/shale, some moss",100.4,0.0,177.9,1.1,-7.1,0.8,0.3,3.0,0.8,-80.29829252,39.0629305
+Allstar #1,10,Switchgrass,Fertilizer,1/25/2022,1/26/2022,0.483,5.28,"some gravel coal/shale, few roots, and leaves",100.4,0.0,177.9,1.1,-7.1,0.8,0.3,3.0,0.8,-80.29805373,39.06265549
+Allstar #1,11,Switchgrass,Control,1/25/2022,1/26/2022,1.185,4.6,"some gravel coal/shale, few roots, and leaves",100.4,0.0,177.9,1.1,-7.1,0.8,0.3,3.0,0.8,-80.29733807,39.062846
+Allstar #1,12,Switchgrass,BioChar + Fertilizer,1/25/2022,1/26/2022,0.4825,4.78,"some gravel coal/shale, few roots, and leaves",100.4,0.0,177.9,1.1,-7.1,0.8,0.3,3.0,0.8,-80.29727524,39.06305415
+Allstar #1,19,Willow,BioChar + Fertilizer,1/25/2022,1/26/2022,0.4015,4.76,"many pebbles-coal/shale, some roots and moss",100.4,0.0,177.9,1.1,-7.1,0.8,0.3,3.0,0.8,-80.29701602,39.06262161
+Allstar #1,20,Willow,Control,1/25/2022,1/26/2022,0.414,4.61,"many pebbles-coal/shale, some roots and moss",100.4,0.0,177.9,1.1,-7.1,0.8,0.3,3.0,0.8,-80.29739681,39.06273382
+Allstar #1,21,Willow,Fertilizer,1/25/2022,1/26/2022,0.4265,5.08,"many pebbles-coal/shale, some roots and moss",100.4,0.0,177.9,1.1,-7.1,0.8,0.3,3.0,0.8,-80.29758126,39.06272809
+Allstar #1,22,Switchgrass,Fertilizer,1/25/2022,1/26/2022,0.431,5.01,"big piece of wood, roots and leaves",100.4,0.0,177.9,1.1,-7.1,0.8,0.3,3.0,0.8,-80.29639596,39.06263604
+Allstar #1,23,Switchgrass,Control,1/25/2022,1/26/2022,0.4245,5.03,"big piece of wood, roots and leaves",100.4,0.0,177.9,1.1,-7.1,0.8,0.3,3.0,0.8,-80.2981845,39.06286285
+Allstar #1,24,Switchgrass,BioChar + Fertilizer,1/25/2022,1/26/2022,0.4865,3.95,"big piece of wood, roots and leaves",100.4,0.0,177.9,1.1,-7.1,0.8,0.3,3.0,0.8,-80.29649045,39.062599
+Allstar #1,7,Willow,BioChar + Fertilizer,4/26/2022,4/29/2022,0.554,5.03,"few pebbles-coal/shale, some moss",258.9,0.0,116.7,1.0,10.2,0.5,0.3,14.0,0.5,-80.29890643,39.06260559
+Allstar #1,8,Willow,Control,4/26/2022,4/29/2022,0.53,5.32,"few pebbles-coal/shale, some moss",258.9,0.0,116.7,1.0,10.2,0.5,0.3,14.0,0.5,-80.29850756,39.06281003
+Allstar #1,9,Willow,Fertilizer,4/26/2022,4/29/2022,0.478,5.49,"few pebbles-coal/shale, some moss",258.9,0.0,116.7,1.0,10.2,0.5,0.3,14.0,0.5,-80.29659359,39.062697
+Allstar #1,10,Switchgrass,Fertilizer,4/26/2022,4/29/2022,0.444,5.28,"some gravel coal/shale, few roots, and leaves",258.9,0.0,116.7,1.0,10.2,0.5,0.3,14.0,0.5,-80.29851371,39.06281748
+Allstar #1,11,Switchgrass,Control,4/26/2022,4/29/2022,0.476,4.6,"some gravel coal/shale, few roots, and leaves",258.9,0.0,116.7,1.0,10.2,0.5,0.3,14.0,0.5,-80.29688606,39.06261353
+Allstar #1,12,Switchgrass,BioChar + Fertilizer,4/26/2022,4/29/2022,0.462,4.78,"some gravel coal/shale, few roots, and leaves",258.9,0.0,116.7,1.0,10.2,0.5,0.3,14.0,0.5,-80.2974833,39.06301831
+Allstar #1,19,Willow,BioChar + Fertilizer,4/26/2022,4/29/2022,0.542,4.76,"many pebbles-coal/shale, some roots and moss",258.9,0.0,116.7,1.0,10.2,0.5,0.3,14.0,0.5,-80.29786393,39.06286628
+Allstar #1,20,Willow,Control,4/26/2022,4/29/2022,0.4745,4.61,"many pebbles-coal/shale, some roots and moss",258.9,0.0,116.7,1.0,10.2,0.5,0.3,14.0,0.5,-80.29689765,39.0627583
+Allstar #1,21,Willow,Fertilizer,4/26/2022,4/29/2022,0.4925,5.08,"many pebbles-coal/shale, some roots and moss",258.9,0.0,116.7,1.0,10.2,0.5,0.3,14.0,0.5,-80.29788202,39.06262504
+Allstar #1,22,Switchgrass,Fertilizer,4/26/2022,4/29/2022,0.4545,5.01,"big piece of wood, roots and leaves",258.9,0.0,116.7,1.0,10.2,0.5,0.3,14.0,0.5,-80.29866902,39.06261267
+Allstar #1,23,Switchgrass,Control,4/26/2022,4/29/2022,0.4825,5.03,"big piece of wood, roots and leaves",258.9,0.0,116.7,1.0,10.2,0.5,0.3,14.0,0.5,-80.29716273,39.06272536
+Allstar #1,24,Switchgrass,BioChar + Fertilizer,4/26/2022,4/29/2022,0.5065,3.95,"big piece of wood, roots and leaves",258.9,0.0,116.7,1.0,10.2,0.5,0.3,14.0,0.5,-80.29825977,39.06283804
+Allstar #1,7,Willow,BioChar + Fertilizer,7/26/2022,7/27/2022,0.592,6.28,"few pebbles-coal/shale, some moss",116.7,0.1,165.3,1.1,22.4,97.0,0.3,23.5,0.97,-80.29792762,39.06289605
+Allstar #1,8,Willow,Control,7/26/2022,7/27/2022,0.4515,6.95,"few pebbles-coal/shale, some moss",116.7,0.1,165.3,1.1,22.4,97.0,0.3,23.5,0.97,-80.29806672,39.0629287
+Allstar #1,9,Willow,Fertilizer,7/26/2022,7/27/2022,0.514,7.08,"few pebbles-coal/shale, some moss",116.7,0.1,165.3,1.1,22.4,97.0,0.3,23.5,0.97,-80.29760972,39.06288355
+Allstar #1,10,Switchgrass,Fertilizer,7/26/2022,7/27/2022,0.497,6.76,"some gravel coal/shale, few roots, and leaves",116.7,0.1,165.3,1.1,22.4,97.0,0.3,23.5,0.97,-80.29756972,39.06262046
+Allstar #1,11,Switchgrass,Control,7/26/2022,7/27/2022,0.5,5.24,"some gravel coal/shale, few roots, and leaves",116.7,0.1,165.3,1.1,22.4,97.0,0.3,23.5,0.97,-80.29641391,39.06261748
+Allstar #1,12,Switchgrass,BioChar + Fertilizer,7/26/2022,7/27/2022,0.464,5.55,"some gravel coal/shale, few roots, and leaves",116.7,0.1,165.3,1.1,22.4,97.0,0.3,23.5,0.97,-80.29672752,39.06282745
+Allstar #1,19,Willow,BioChar + Fertilizer,7/26/2022,7/27/2022,0.8365,5.5,"many pebbles-coal/shale, some roots and moss",116.7,0.1,165.3,1.1,22.4,97.0,0.3,23.5,0.97,-80.29831147,39.06262822
+Allstar #1,20,Willow,Control,7/26/2022,7/27/2022,0.5055,5.66,"many pebbles-coal/shale, some roots and moss",116.7,0.1,165.3,1.1,22.4,97.0,0.3,23.5,0.97,-80.29794873,39.06272253
+Allstar #1,21,Willow,Fertilizer,7/26/2022,7/27/2022,0.4515,5.88,"many pebbles-coal/shale, some roots and moss",116.7,0.1,165.3,1.1,22.4,97.0,0.3,23.5,0.97,-80.29786691,39.06266404
+Allstar #1,22,Switchgrass,Fertilizer,7/26/2022,7/27/2022,0.474,5.11,"big piece of wood, roots and leaves",116.7,0.1,165.3,1.1,22.4,97.0,0.3,23.5,0.97,-80.29747866,39.06292023
+Allstar #1,23,Switchgrass,Control,7/26/2022,7/27/2022,0.5445,5.7,"big piece of wood, roots and leaves",116.7,0.1,165.3,1.1,22.4,97.0,0.3,23.5,0.97,-80.29724717,39.06304693
+Allstar #1,24,Switchgrass,BioChar + Fertilizer,7/26/2022,7/27/2022,0.5875,5.35,"big piece of wood, roots and leaves",116.7,0.1,165.3,1.1,22.4,97.0,0.3,23.5,0.97,-80.29835265,39.06291356
+Allstar #1,7,Willow,BioChar + Fertilizer,10/25/2022,10/26/2022,0.447,6.28,"few pebbles-coal/shale, some moss",38.5,0.2,201.1,1.3,12.0,96.6,0.3,13.6,0.9657309524,-80.29804799,39.06275862
+Allstar #1,8,Willow,Control,10/25/2022,10/26/2022,0.4335,6.95,"few pebbles-coal/shale, some moss",38.5,0.2,201.1,1.3,12.0,96.6,0.3,13.6,0.9657309524,-80.29742706,39.0629731
+Allstar #1,9,Willow,Fertilizer,10/25/2022,10/26/2022,0.434,7.08,"few pebbles-coal/shale, some moss",38.5,0.2,201.1,1.3,12.0,96.6,0.3,13.6,0.9657309524,-80.2976805,39.06266642
+Allstar #1,10,Switchgrass,Fertilizer,10/25/2022,10/26/2022,0.413,6.76,"some gravel coal/shale, few roots, and leaves",38.5,0.2,201.1,1.3,12.0,96.6,0.3,13.6,0.9657309524,-80.29683111,39.06271691
+Allstar #1,11,Switchgrass,Control,10/25/2022,10/26/2022,0.3275,5.24,"some gravel coal/shale, few roots, and leaves",38.5,0.2,201.1,1.3,12.0,96.6,0.3,13.6,0.9657309524,-80.29788628,39.06287082
+Allstar #1,12,Switchgrass,BioChar + Fertilizer,10/25/2022,10/26/2022,0.4435,5.55,"some gravel coal/shale, few roots, and leaves",38.5,0.2,201.1,1.3,12.0,96.6,0.3,13.6,0.9657309524,-80.29720836,39.06283421
+Allstar #1,19,Willow,BioChar + Fertilizer,10/25/2022,10/26/2022,0.412,5.5,"many pebbles-coal/shale, some roots and moss",38.5,0.2,201.1,1.3,12.0,96.6,0.3,13.6,0.9657309524,-80.29838537,39.06266903
+Allstar #1,20,Willow,Control,10/25/2022,10/26/2022,0.3935,5.66,"many pebbles-coal/shale, some roots and moss",38.5,0.2,201.1,1.3,12.0,96.6,0.3,13.6,0.9657309524,-80.29737419,39.06268294
+Allstar #1,21,Willow,Fertilizer,10/25/2022,10/26/2022,0.4325,5.88,"many pebbles-coal/shale, some roots and moss",38.5,0.2,201.1,1.3,12.0,96.6,0.3,13.6,0.9657309524,-80.2978217,39.06268218
+Allstar #1,22,Switchgrass,Fertilizer,10/25/2022,10/26/2022,0.3585,5.11,"big piece of wood, roots and leaves",38.5,0.2,201.1,1.3,12.0,96.6,0.3,13.6,0.9657309524,-80.29824854,39.06260485
+Allstar #1,23,Switchgrass,Control,10/25/2022,10/26/2022,0.4585,5.7,"big piece of wood, roots and leaves",38.5,0.2,201.1,1.3,12.0,96.6,0.3,13.6,0.9657309524,-80.29833798,39.06264919
+Allstar #1,24,Switchgrass,BioChar + Fertilizer,10/25/2022,10/26/2022,0.4745,5.35,"big piece of wood, roots and leaves",38.5,0.2,201.1,1.3,12.0,96.6,0.3,13.6,0.9657309524,-80.29813899,39.06276947
+Allstar #1,7,Willow,BioChar + Fertilizer,1/17/2023,1/18/2023,0.3695,6.28,"few pebbles-coal/shale, some moss",45.1,0.0,168.0,1.0,5.4,96.9,0.3,6.3,0.9689538462,-80.29856548,39.06278805
+Allstar #1,8,Willow,Control,1/17/2023,1/18/2023,0.3755,6.95,"few pebbles-coal/shale, some moss",45.1,0.0,168.0,1.0,5.4,96.9,0.3,6.3,0.9689538462,-80.29800949,39.06293395
+Allstar #1,9,Willow,Fertilizer,1/17/2023,1/18/2023,0.3285,7.08,"few pebbles-coal/shale, some moss",45.1,0.0,168.0,1.0,5.4,96.9,0.3,6.3,0.9689538462,-80.29752885,39.06260086
+Allstar #1,10,Switchgrass,Fertilizer,1/17/2023,1/18/2023,0.393,6.76,"some gravel coal/shale, few roots, and leaves",45.1,0.0,168.0,1.0,5.4,96.9,0.3,6.3,0.9689538462,-80.29832474,39.06271296
+Allstar #1,11,Switchgrass,Control,1/17/2023,1/18/2023,0.451,5.24,"some gravel coal/shale, few roots, and leaves",45.1,0.0,168.0,1.0,5.4,96.9,0.3,6.3,0.9689538462,-80.29761694,39.06264104
+Allstar #1,12,Switchgrass,BioChar + Fertilizer,1/17/2023,1/18/2023,0.5485,5.55,"some gravel coal/shale, few roots, and leaves",45.1,0.0,168.0,1.0,5.4,96.9,0.3,6.3,0.9689538462,-80.29814831,39.06267746
+Allstar #1,19,Willow,BioChar + Fertilizer,1/17/2023,1/18/2023,0.3915,5.5,"many pebbles-coal/shale, some roots and moss",45.1,0.0,168.0,1.0,5.4,96.9,0.3,6.3,0.9689538462,-80.29663996,39.06278357
+Allstar #1,20,Willow,Control,1/17/2023,1/18/2023,0.433,5.66,"many pebbles-coal/shale, some roots and moss",45.1,0.0,168.0,1.0,5.4,96.9,0.3,6.3,0.9689538462,-80.29674778,39.06282695
+Allstar #1,21,Willow,Fertilizer,1/17/2023,1/18/2023,0.4165,5.88,"many pebbles-coal/shale, some roots and moss",45.1,0.0,168.0,1.0,5.4,96.9,0.3,6.3,0.9689538462,-80.29802258,39.06271238
+Allstar #1,22,Switchgrass,Fertilizer,1/17/2023,1/18/2023,0.4345,5.11,"big piece of wood, roots and leaves",45.1,0.0,168.0,1.0,5.4,96.9,0.3,6.3,0.9689538462,-80.29831005,39.06272134
+Allstar #1,23,Switchgrass,Control,1/17/2023,1/18/2023,0.339,5.7,"big piece of wood, roots and leaves",45.1,0.0,168.0,1.0,5.4,96.9,0.3,6.3,0.9689538462,-80.2963813,39.06281685
+Allstar #1,24,Switchgrass,BioChar + Fertilizer,1/17/2023,1/18/2023,0.417,5.35,"big piece of wood, roots and leaves",45.1,0.0,168.0,1.0,5.4,96.9,0.3,6.3,0.9689538462,-80.29823584,39.06295537
+Allstar #2,1,Switchgrass,BioChar + Fertilizer,4/13/2021,4/14/2021,0.5655,4.6,"some gravel --coal/shale, few roots, and leaves",0.0,0.000,252,0.19,9.4,0.763,0.276,15.3,0.763,-80.30223515,39.05482466
+Allstar #2,2,Switchgrass,Fertilizer,4/13/2021,4/14/2021,0.4495,4.2,"some gravel coal/shale, few roots, and leaves",0.0,0.000,252,0.19,9.4,0.763,0.276,15.3,0.763,-80.30242859,39.05523105
+Allstar #2,3,Switchgrass,Control,4/13/2021,4/14/2021,0.463,4.66,"some rocks, few roots, and leaves",0.0,0.000,252,0.19,9.4,0.763,0.276,15.3,0.763,-80.30229583,39.05561274
+Allstar #2,4,Willow,Fertilizer,4/13/2021,4/14/2021,0.4385,4.24,"slate pebbles, large easily broken clumps",0.0,0.000,252,0.19,9.4,0.763,0.276,15.3,0.763,-80.30240683,39.05397879
+Allstar #2,5,Willow,BioChar + Fertilizer,4/13/2021,4/14/2021,0.5235,5.07,"slate, coal  pebbles, large easily broken clumps",0.0,0.000,252,0.19,9.4,0.763,0.276,15.3,0.763,-80.30205004,39.05339004
+Allstar #2,6,Willow,Control,4/13/2021,4/14/2021,0.545,5.06,"many slate, coal pebbles, large easily broken clumps",0.0,0.000,252,0.19,9.4,0.763,0.276,15.3,0.763,-80.30236375,39.05428789
+Allstar #2,13,Willow,Control,4/13/2021,4/14/2021,0.5195,5.13,"slate pebbles, large easily broken clumps",0.0,0.000,252,0.19,9.4,0.763,0.276,15.3,0.763,-80.30224563,39.0530783
+Allstar #2,14,Willow,Fertilizer,4/13/2021,4/14/2021,0.489,5.07,"slate, coal  pebbles, large easily broken clumps",0.0,0.000,252,0.19,9.4,0.763,0.276,15.3,0.763,-80.30204124,39.05283535
+Allstar #2,15,Willow,BioChar + Fertilizer,4/13/2021,4/14/2021,0.444,4.99,"many slate, coal pebbles, large easily broken clumps",0.0,0.000,252,0.19,9.4,0.763,0.276,15.3,0.763,-80.30215985,39.05383116
+Allstar #2,16,Switchgrass,BioChar + Fertilizer,4/13/2021,4/14/2021,0.4375,3.71,"some gravel --coal/shale, few roots, and leaves",0.0,0.000,252,0.19,9.4,0.763,0.276,15.3,0.763,-80.30218964,39.05574823
+Allstar #2,17,Switchgrass,Control,4/13/2021,4/14/2021,0.476,4.02,"some gravel coal/shale, few roots, and leaves",0.0,0.000,252,0.19,9.4,0.763,0.276,15.3,0.763,-80.30238789,39.05488633
+Allstar #2,18,Switchgrass,Fertilizer,4/13/2021,4/14/2021,0.448,3.93,"some rocks, few roots, and leaves",0.0,0.000,252,0.19,9.4,0.763,0.276,15.3,0.763,-80.30232989,39.05372676
+Allstar #2,1,Switchgrass,BioChar + Fertilizer,7/27/2021,7/28/2021,0.57,4.6,"some gravel --coal/shale, few roots, and leaves",0.0,0.000,199,0.39,17.4,0.988,0.246,23.5,0.988,-80.30237163,39.05363513
+Allstar #2,2,Switchgrass,Fertilizer,7/27/2021,7/28/2021,0.969,4.2,"some gravel coal/shale, few roots, and leaves",0.0,0.000,199,0.39,17.4,0.988,0.246,23.5,0.988,-80.30238332,39.05480883
+Allstar #2,3,Switchgrass,Control,7/27/2021,7/28/2021,0.655,4.66,"some rocks, few roots, and leaves",0.0,0.000,199,0.39,17.4,0.988,0.246,23.5,0.988,-80.30227434,39.05471569
+Allstar #2,4,Willow,Fertilizer,7/27/2021,7/28/2021,0.6345,4.24,"slate pebbles, large easily broken clumps",0.0,0.000,199,0.39,17.4,0.988,0.246,23.5,0.988,-80.30222845,39.05369011
+Allstar #2,5,Willow,BioChar + Fertilizer,7/27/2021,7/28/2021,0.6585,5.07,"slate, coal  pebbles, large easily broken clumps",0.0,0.000,199,0.39,17.4,0.988,0.246,23.5,0.988,-80.30242705,39.05505389
+Allstar #2,6,Willow,Control,7/27/2021,7/28/2021,0.646,5.06,"many slate, coal pebbles, large easily broken clumps",0.0,0.000,199,0.39,17.4,0.988,0.246,23.5,0.988,-80.30193792,39.05287196
+Allstar #2,13,Willow,Control,7/27/2021,7/28/2021,0.591,5.13,"slate pebbles, large easily broken clumps",0.0,0.000,199,0.39,17.4,0.988,0.246,23.5,0.988,-80.30246883,39.05525018
+Allstar #2,14,Willow,Fertilizer,7/27/2021,7/28/2021,0.617,5.07,"slate, coal  pebbles, large easily broken clumps",0.0,0.000,199,0.39,17.4,0.988,0.246,23.5,0.988,-80.30204355,39.05300386
+Allstar #2,15,Willow,BioChar + Fertilizer,7/27/2021,7/28/2021,0.58,4.99,"slate, coal  pebbles, large easily broken clumps",0.0,0.000,199,0.39,17.4,0.988,0.246,23.5,0.988,-80.30228411,39.05336214
+Allstar #2,16,Switchgrass,BioChar + Fertilizer,7/27/2021,7/28/2021,0.6405,3.71,"some gravel --coal/shale, few roots, and leaves",0.0,0.000,199,0.39,17.4,0.988,0.246,23.5,0.988,-80.30219733,39.055357
+Allstar #2,17,Switchgrass,Control,7/27/2021,7/28/2021,0.6515,4.02,"some gravel coal/shale, few roots, and leaves",0.0,0.000,199,0.39,17.4,0.988,0.246,23.5,0.988,-80.30239641,39.055312
+Allstar #2,18,Switchgrass,Fertilizer,7/27/2021,7/28/2021,0.7295,3.93,"some rocks, few roots, and leaves",0.0,0.000,199,0.39,17.4,0.988,0.246,23.5,0.988,-80.3024279,39.05536413
+Allstar #2,1,Switchgrass,BioChar + Fertilizer,10/28/2021,10/29/2021,0.5025,4.6,"some gravel --coal/shale, few roots, and leaves",0.0,0.085,329,1.28,12.9,0.972,0.280,13.8,0.972,-80.30203498,39.0530401
+Allstar #2,2,Switchgrass,Fertilizer,10/28/2021,10/29/2021,0.576,4.2,"some gravel coal/shale, few roots, and leaves",0.0,0.085,329,1.28,12.9,0.972,0.280,13.8,0.972,-80.30222799,39.05514962
+Allstar #2,3,Switchgrass,Control,10/28/2021,10/29/2021,0.5115,4.66,"some rocks, few roots, and leaves",0.0,0.085,329,1.28,12.9,0.972,0.280,13.8,0.972,-80.30241159,39.05565291
+Allstar #2,4,Willow,Fertilizer,10/28/2021,10/29/2021,0.49,4.24,"slate pebbles, large easily broken clumps",0.0,0.085,329,1.28,12.9,0.972,0.280,13.8,0.972,-80.30233875,39.05549413
+Allstar #2,5,Willow,BioChar + Fertilizer,10/28/2021,10/29/2021,0.511,5.07,"slate, coal  pebbles, large easily broken clumps",0.0,0.085,329,1.28,12.9,0.972,0.280,13.8,0.972,-80.30225137,39.05543102
+Allstar #2,6,Willow,Control,10/28/2021,10/29/2021,0.73,5.06,"many slate, coal pebbles, large easily broken clumps",0.0,0.085,329,1.28,12.9,0.972,0.280,13.8,0.972,-80.30217658,39.05360555
+Allstar #2,13,Willow,Control,10/28/2021,10/29/2021,1.389,5.13,"slate pebbles, large easily broken clumps",0.0,0.085,329,1.28,12.9,0.972,0.280,13.8,0.972,-80.3023644,39.05543536
+Allstar #2,14,Willow,Fertilizer,10/28/2021,10/29/2021,0.4915,5.07,"slate, coal  pebbles, large easily broken clumps",0.0,0.085,329,1.28,12.9,0.972,0.280,13.8,0.972,-80.3020706,39.05308382
+Allstar #2,15,Willow,BioChar + Fertilizer,10/28/2021,10/29/2021,0.5325,4.99,"many slate, coal pebbles, large easily broken clumps",0.0,0.085,329,1.28,12.9,0.972,0.280,13.8,0.972,-80.30203938,39.05338843
+Allstar #2,16,Switchgrass,BioChar + Fertilizer,10/28/2021,10/29/2021,0.5595,3.71,"some gravel --coal/shale, few roots, and leaves",0.0,0.085,329,1.28,12.9,0.972,0.280,13.8,0.972,-80.30223684,39.05544721
+Allstar #2,17,Switchgrass,Control,10/28/2021,10/29/2021,0.523,4.02,"some gravel coal/shale, few roots, and leaves",0.0,0.085,329,1.28,12.9,0.972,0.280,13.8,0.972,-80.30227575,39.05346725
+Allstar #2,18,Switchgrass,Fertilizer,10/28/2021,10/29/2021,0.5565,3.93,"some rocks, few roots, and leaves",0.0,0.085,329,1.28,12.9,0.972,0.280,13.8,0.972,-80.30220596,39.05405947
+Allstar #2,1,Switchgrass,BioChar + Fertilizer,1/25/2022,1/26/2022,0.522,4.6,"some gravel --coal/shale, few roots, and leaves",0.0,0.000,298,0.61,-5.7,0.877,0.288,2.0,0.877,-80.30240379,39.05468464
+Allstar #2,2,Switchgrass,Fertilizer,1/25/2022,1/26/2022,0.658,4.2,"some gravel coal/shale, few roots, and leaves",0.0,0.000,298,0.61,-5.7,0.877,0.288,2.0,0.877,-80.30219984,39.05454338
+Allstar #2,3,Switchgrass,Control,1/25/2022,1/26/2022,0.514,4.66,"some rocks, few roots, and leaves",0.0,0.000,298,0.61,-5.7,0.877,0.288,2.0,0.877,-80.30189253,39.0529579
+Allstar #2,4,Willow,Fertilizer,1/25/2022,1/26/2022,0.497,4.24,"slate pebbles, large easily broken clumps",0.0,0.000,298,0.61,-5.7,0.877,0.288,2.0,0.877,-80.30212013,39.05364704
+Allstar #2,5,Willow,BioChar + Fertilizer,1/25/2022,1/26/2022,0.427,5.07,"slate, coal  pebbles, large easily broken clumps",0.0,0.000,298,0.61,-5.7,0.877,0.288,2.0,0.877,-80.3019693,39.05287593
+Allstar #2,6,Willow,Control,1/25/2022,1/26/2022,0.4915,5.06,"many slate, coal pebbles, large easily broken clumps",0.0,0.000,298,0.61,-5.7,0.877,0.288,2.0,0.877,-80.3024161,39.0551084
+Allstar #2,13,Willow,Control,1/25/2022,1/26/2022,0.4855,5.13,"slate pebbles, large easily broken clumps",0.0,0.000,298,0.61,-5.7,0.877,0.288,2.0,0.877,-80.30244329,39.05514897
+Allstar #2,14,Willow,Fertilizer,1/25/2022,1/26/2022,0.513,5.07,"slate, coal  pebbles, large easily broken clumps",0.0,0.000,298,0.61,-5.7,0.877,0.288,2.0,0.877,-80.30229625,39.05529636
+Allstar #2,15,Willow,BioChar + Fertilizer,1/25/2022,1/26/2022,0.4735,4.99,"many slate, coal pebbles, large easily broken clumps",0.0,0.000,298,0.61,-5.7,0.877,0.288,2.0,0.877,-80.30197198,39.0527781
+Allstar #2,16,Switchgrass,BioChar + Fertilizer,1/25/2022,1/26/2022,0.4895,3.71,"some gravel --coal/shale, few roots, and leaves",0.0,0.000,298,0.61,-5.7,0.877,0.288,2.0,0.877,-80.30233199,39.05378518
+Allstar #2,17,Switchgrass,Control,1/25/2022,1/26/2022,0.4985,4.02,"some gravel coal/shale, few roots, and leaves",0.0,0.000,298,0.61,-5.7,0.877,0.288,2.0,0.877,-80.30244188,39.05569447
+Allstar #2,18,Switchgrass,Fertilizer,1/25/2022,1/26/2022,0.5005,3.93,"some rocks, few roots, and leaves",0.0,0.000,298,0.61,-5.7,0.877,0.288,2.0,0.877,-80.30214111,39.05341438
+Allstar #2,1,Switchgrass,BioChar + Fertilizer,4/26/2022,4/29/2022,0.455,4.6,"some gravel --coal/shale, few roots, and leaves",0.0,0.000,268,0.46,3.8,0.701,0.284,13.1,0.701,-80.30233428,39.05409704
+Allstar #2,2,Switchgrass,Fertilizer,4/26/2022,4/29/2022,0.49,4.2,"some gravel coal/shale, few roots, and leaves",0.0,0.000,268,0.46,3.8,0.701,0.284,13.1,0.701,-80.30221907,39.05346304
+Allstar #2,3,Switchgrass,Control,4/26/2022,4/29/2022,0.433,4.66,"some rocks, few roots, and leaves",0.0,0.000,268,0.46,3.8,0.701,0.284,13.1,0.701,-80.30221065,39.05540366
+Allstar #2,4,Willow,Fertilizer,4/26/2022,4/29/2022,0.47,4.24,"slate pebbles, large easily broken clumps",0.0,0.000,268,0.46,3.8,0.701,0.284,13.1,0.701,-80.30206283,39.05327849
+Allstar #2,5,Willow,BioChar + Fertilizer,4/26/2022,4/29/2022,0.5345,5.07,"slate, coal  pebbles, large easily broken clumps",0.0,0.000,268,0.46,3.8,0.701,0.284,13.1,0.701,-80.30225557,39.05481266
+Allstar #2,6,Willow,Control,4/26/2022,4/29/2022,0.444,5.06,"many slate, coal pebbles, large easily broken clumps",0.0,0.000,268,0.46,3.8,0.701,0.284,13.1,0.701,-80.30221924,39.05366556
+Allstar #2,13,Willow,Control,4/26/2022,4/29/2022,0.405,5.13,"slate pebbles, large easily broken clumps",0.0,0.000,268,0.46,3.8,0.701,0.284,13.1,0.701,-80.30248427,39.05550608
+Allstar #2,14,Willow,Fertilizer,4/26/2022,4/29/2022,0.4165,5.07,"slate, coal  pebbles, large easily broken clumps",0.0,0.000,268,0.46,3.8,0.701,0.284,13.1,0.701,-80.30215559,39.05380841
+Allstar #2,15,Willow,BioChar + Fertilizer,4/26/2022,4/29/2022,0.466,4.99,"many slate, coal pebbles, large easily broken clumps",0.0,0.000,268,0.46,3.8,0.701,0.284,13.1,0.701,-80.30223069,39.053275
+Allstar #2,16,Switchgrass,BioChar + Fertilizer,4/26/2022,4/29/2022,0.4585,3.71,"some gravel --coal/shale, few roots, and leaves",0.0,0.000,268,0.46,3.8,0.701,0.284,13.1,0.701,-80.30217302,39.05317111
+Allstar #2,17,Switchgrass,Control,4/26/2022,4/29/2022,0.48,4.02,"some gravel coal/shale, few roots, and leaves",0.0,0.000,268,0.46,3.8,0.701,0.284,13.1,0.701,-80.30238365,39.05444048
+Allstar #2,18,Switchgrass,Fertilizer,4/26/2022,4/29/2022,0.563,3.93,"some rocks, few roots, and leaves",0.0,0.000,268,0.46,3.8,0.701,0.284,13.1,0.701,-80.30238127,39.05425359
+Allstar #2,1,Switchgrass,BioChar + Fertilizer,7/26/2022,7/27/2022,0.3925,3.91,"some gravel --coal/shale, few roots, and leaves",0.0,0.000,197,0.56,20.5,97.20,0.290,21.9,0.972,-80.30228784,39.05367348
+Allstar #2,2,Switchgrass,Fertilizer,7/26/2022,7/27/2022,0.655,5.22,"some gravel coal/shale, few roots, and leaves",0.0,0.000,197,0.56,20.5,97.20,0.290,21.9,0.972,-80.302439,39.05516945
+Allstar #2,3,Switchgrass,Control,7/26/2022,7/27/2022,0.48,6.05,"some rocks, few roots, and leaves",0.0,0.000,197,0.56,20.5,97.20,0.290,21.9,0.972,-80.30233193,39.05367988
+Allstar #2,4,Willow,Fertilizer,7/26/2022,7/27/2022,0.659,4.9,"slate pebbles, large easily broken clumps",0.0,0.000,197,0.56,20.5,97.20,0.290,21.9,0.972,-80.30197877,39.05284372
+Allstar #2,5,Willow,BioChar + Fertilizer,7/26/2022,7/27/2022,0.2835,5.38,"slate, coal  pebbles, large easily broken clumps",0.0,0.000,197,0.56,20.5,97.20,0.290,21.9,0.972,-80.3022788,39.05317878
+Allstar #2,6,Willow,Control,7/26/2022,7/27/2022,0.541,5.81,"many slate, coal pebbles, large easily broken clumps",0.0,0.000,197,0.56,20.5,97.20,0.290,21.9,0.972,-80.30221019,39.05461193
+Allstar #2,13,Willow,Control,7/26/2022,7/27/2022,0.451,5.25,"slate pebbles, large easily broken clumps",0.0,0.000,197,0.56,20.5,97.20,0.290,21.9,0.972,-80.3022683,39.05349988
+Allstar #2,14,Willow,Fertilizer,7/26/2022,7/27/2022,0.478,4,"slate, coal  pebbles, large easily broken clumps",0.0,0.000,197,0.56,20.5,97.20,0.290,21.9,0.972,-80.30248933,39.05570378
+Allstar #2,15,Willow,BioChar + Fertilizer,7/26/2022,7/27/2022,0.4625,4.77,"many slate, coal pebbles, large easily broken clumps",0.0,0.000,197,0.56,20.5,97.20,0.290,21.9,0.972,-80.30230078,39.05418054
+Allstar #2,16,Switchgrass,BioChar + Fertilizer,7/26/2022,7/27/2022,0.447,4.69,"some gravel --coal/shale, few roots, and leaves",0.0,0.000,197,0.56,20.5,97.20,0.290,21.9,0.972,-80.30207831,39.05290792
+Allstar #2,17,Switchgrass,Control,7/26/2022,7/27/2022,0.491,4.28,"some gravel coal/shale, few roots, and leaves",0.0,0.000,197,0.56,20.5,97.20,0.290,21.9,0.972,-80.30229822,39.05348579
+Allstar #2,18,Switchgrass,Fertilizer,7/26/2022,7/27/2022,0.5245,4.5,"some rocks, few roots, and leaves",0.0,0.000,197,0.56,20.5,97.20,0.290,21.9,0.972,-80.30201012,39.05306057
+Allstar #2,1,Switchgrass,BioChar + Fertilizer,10/25/2022,10/26/2022,0.2775,3.91,"some gravel --coal/shale, few roots, and leaves",0.0,0.000,302,0.29,12.0,96.44,0.253,10.8,0.9644,-80.30211778,39.05354842
+Allstar #2,2,Switchgrass,Fertilizer,10/25/2022,10/26/2022,0.346,5.22,"some gravel coal/shale, few roots, and leaves",0.0,0.000,302,0.29,12.0,96.44,0.253,10.8,0.9644,-80.30204744,39.05308196
+Allstar #2,3,Switchgrass,Control,10/25/2022,10/26/2022,0.375,6.05,"some rocks, few roots, and leaves",0.0,0.000,302,0.29,12.0,96.44,0.253,10.8,0.9644,-80.30238544,39.05555955
+Allstar #2,4,Willow,Fertilizer,10/25/2022,10/26/2022,0.3875,4.9,"slate pebbles, large easily broken clumps",0.0,0.000,302,0.29,12.0,96.44,0.253,10.8,0.9644,-80.30193459,39.05299784
+Allstar #2,5,Willow,BioChar + Fertilizer,10/25/2022,10/26/2022,0.398,5.38,"slate, coal  pebbles, large easily broken clumps",0.0,0.000,302,0.29,12.0,96.44,0.253,10.8,0.9644,-80.30205231,39.05296858
+Allstar #2,6,Willow,Control,10/25/2022,10/26/2022,0.344,5.81,"many slate, coal pebbles, large easily broken clumps",0.0,0.000,302,0.29,12.0,96.44,0.253,10.8,0.9644,-80.30205535,39.05342217
+Allstar #2,13,Willow,Control,10/25/2022,10/26/2022,0.3915,5.25,"slate pebbles, large easily broken clumps",0.0,0.000,302,0.29,12.0,96.44,0.253,10.8,0.9644,-80.3023099,39.05337639
+Allstar #2,14,Willow,Fertilizer,10/25/2022,10/26/2022,0.279,4,"slate, coal  pebbles, large easily broken clumps",0.0,0.000,302,0.29,12.0,96.44,0.253,10.8,0.9644,-80.30188876,39.05295966
+Allstar #2,15,Willow,BioChar + Fertilizer,10/25/2022,10/26/2022,0.374,4.77,"many slate, coal pebbles, large easily broken clumps",0.0,0.000,302,0.29,12.0,96.44,0.253,10.8,0.9644,-80.30221407,39.05502325
+Allstar #2,16,Switchgrass,BioChar + Fertilizer,10/25/2022,10/26/2022,0.3525,4.69,"some gravel --coal/shale, few roots, and leaves",0.0,0.000,302,0.29,12.0,96.44,0.253,10.8,0.9644,-80.30232939,39.05440219
+Allstar #2,17,Switchgrass,Control,10/25/2022,10/26/2022,0.384,4.28,"some gravel coal/shale, few roots, and leaves",0.0,0.000,302,0.29,12.0,96.44,0.253,10.8,0.9644,-80.30225226,39.05494132
+Allstar #2,18,Switchgrass,Fertilizer,10/25/2022,10/26/2022,0.8625,4.5,"some rocks, few roots, and leaves",0.0,0.000,302,0.29,12.0,96.44,0.253,10.8,0.9644,-80.30241193,39.05490243
+Allstar #2,1,Switchgrass,BioChar + Fertilizer,1/17/2023,1/18/2023,0.521,3.91,"some gravel --coal/shale, few roots, and leaves",0.0,0.000,271,1.00,8.8,96.29,0.294,4.7,0.9629,-80.30219707,39.05508982
+Allstar #2,2,Switchgrass,Fertilizer,1/17/2023,1/18/2023,0.696,5.22,"some gravel coal/shale, few roots, and leaves",0.0,0.000,271,1.00,8.8,96.29,0.294,4.7,0.9629,-80.30242407,39.05552457
+Allstar #2,3,Switchgrass,Control,1/17/2023,1/18/2023,0.4975,6.05,"some rocks, few roots, and leaves",0.0,0.000,271,1.00,8.8,96.29,0.294,4.7,0.9629,-80.30239215,39.05517372
+Allstar #2,4,Willow,Fertilizer,1/17/2023,1/18/2023,0.407,4.9,"slate pebbles, large easily broken clumps",0.0,0.000,271,1.00,8.8,96.29,0.294,4.7,0.9629,-80.3021954,39.0545374
+Allstar #2,5,Willow,BioChar + Fertilizer,1/17/2023,1/18/2023,0.428,5.38,"slate, coal  pebbles, large easily broken clumps",0.0,0.000,271,1.00,8.8,96.29,0.294,4.7,0.9629,-80.30216595,39.05319139
+Allstar #2,6,Willow,Control,1/17/2023,1/18/2023,0.5245,5.81,"many slate, coal pebbles, large easily broken clumps",0.0,0.000,271,1.00,8.8,96.29,0.294,4.7,0.9629,-80.30224128,39.0551225
+Allstar #2,13,Willow,Control,1/17/2023,1/18/2023,0.313,5.25,"slate pebbles, large easily broken clumps",0.0,0.000,271,1.00,8.8,96.29,0.294,4.7,0.9629,-80.30217831,39.05338439
+Allstar #2,14,Willow,Fertilizer,1/17/2023,1/18/2023,0.42,4,"slate, coal  pebbles, large easily broken clumps",0.0,0.000,271,1.00,8.8,96.29,0.294,4.7,0.9629,-80.30239829,39.0537977
+Allstar #2,15,Willow,BioChar + Fertilizer,1/17/2023,1/18/2023,0.515,4.77,"many slate, coal pebbles, large easily broken clumps",0.0,0.000,271,1.00,8.8,96.29,0.294,4.7,0.9629,-80.30238943,39.05518523
+Allstar #2,16,Switchgrass,BioChar + Fertilizer,1/17/2023,1/18/2023,0.3185,4.69,"some gravel --coal/shale, few roots, and leaves",0.0,0.000,271,1.00,8.8,96.29,0.294,4.7,0.9629,-80.3022562,39.05431303
+Allstar #2,17,Switchgrass,Control,1/17/2023,1/18/2023,0.308,4.28,"some gravel coal/shale, few roots, and leaves",0.0,0.000,271,1.00,8.8,96.29,0.294,4.7,0.9629,-80.3023185,39.05566417
+Allstar #2,18,Switchgrass,Fertilizer,1/17/2023,1/18/2023,0.545,4.5,"some rocks, few roots, and leaves",0.0,0.000,271,1.00,8.8,96.29,0.294,4.7,0.9629,-80.30190793,39.0530111
+Reedsville,1,Switchgrass,Control,4/15/2021,4/16/2021,0.439,4.58,"easily broken up, few roots and leaves",574.8,0.000,185,2.41,10.8,0.565,0.432,10.1,0.565,-79.8086,39.50543
+Reedsville,2,Switchgrass,Fertilizer,4/15/2021,4/16/2021,0.494,4.5,"easily broken up, few roots and leaves",574.8,0.000,185,2.41,10.8,0.565,0.432,10.1,0.565,-79.8085,39.50546
+Reedsville,3,Switchgrass,BioChar + Fertilizer,4/15/2021,4/16/2021,0.4945,4.6,"easily broken up, few roots and leaves",574.8,0.000,185,2.41,10.8,0.565,0.432,10.1,0.565,-79.809,39.50575
+Reedsville,13,Willow,Fertilizer,4/15/2021,4/16/2021,0.556,4.07,"easily broken up, few roots and leaves",574.8,0.000,185,2.41,10.8,0.565,0.432,10.1,0.565,-79.8082,39.50526
+Reedsville,14,Willow,BioChar + Fertilizer,4/15/2021,4/16/2021,0.496,4.43,easily broken up,574.8,0.000,185,2.41,10.8,0.565,0.432,10.1,0.565,-79.8091,39.50569
+Reedsville,15,Willow,Control,4/15/2021,4/16/2021,0.4725,4.58,easily broken up,574.8,0.000,185,2.41,10.8,0.565,0.432,10.1,0.565,-79.8081,39.50516
+Reedsville,10,Willow,BioChar + Fertilizer,4/15/2021,4/16/2021,0.483,4.09,easily broken up,574.8,0.000,185,2.41,10.8,0.565,0.432,10.1,0.565,-79.8085,39.50556
+Reedsville,11,Willow,Fertilizer,4/15/2021,4/16/2021,0.508,4.21,easily broken up,574.8,0.000,185,2.41,10.8,0.565,0.432,10.1,0.565,-79.8084,39.50522
+Reedsville,12,Willow,Control,4/15/2021,4/16/2021,0.4865,4.3,easily broken up,574.8,0.000,185,2.41,10.8,0.565,0.432,10.1,0.565,-79.8078,39.50509
+Reedsville,22,Switchgrass,BioChar + Fertilizer,4/15/2021,4/16/2021,0.5225,4.53,easily broken up,574.8,0.000,185,2.41,10.8,0.565,0.432,10.1,0.565,-79.8088,39.50568
+Reedsville,23,Switchgrass,Fertilizer,4/15/2021,4/16/2021,0.4865,4.3,easily broken up,574.8,0.000,185,2.41,10.8,0.565,0.432,10.1,0.565,-79.8086,39.50542
+Reedsville,24,Switchgrass,Control,4/15/2021,4/16/2021,0.4695,4.29,easily broken up,574.8,0.000,185,2.41,10.8,0.565,0.432,10.1,0.565,-79.8096,39.50618
+Reedsville,1,Switchgrass,Control,7/29/2021,7/30/2021,0.657,4.58,"easily broken up, few roots and leaves",80.7,0.000,190,1.07,20.3,0.926,0.421,19.6,0.926,-79.8083,39.5054
+Reedsville,2,Switchgrass,Fertilizer,7/29/2021,7/30/2021,0.5835,4.5,"easily broken up, few roots and leaves",80.7,0.000,190,1.07,20.3,0.926,0.421,19.6,0.926,-79.8088,39.50548
+Reedsville,3,Switchgrass,BioChar + Fertilizer,7/29/2021,7/30/2021,0.559,4.6,"easily broken up, few roots and leaves",80.7,0.000,190,1.07,20.3,0.926,0.421,19.6,0.926,-79.8083,39.50516
+Reedsville,13,Willow,Fertilizer,7/29/2021,7/30/2021,0.791,4.07,"easily broken up, few roots and leaves",80.7,0.000,190,1.07,20.3,0.926,0.421,19.6,0.926,-79.8078,39.50497
+Reedsville,14,Willow,BioChar + Fertilizer,7/29/2021,7/30/2021,0.7725,4.43,easily broken up,80.7,0.000,190,1.07,20.3,0.926,0.421,19.6,0.926,-79.8089,39.50569
+Reedsville,15,Willow,Control,7/29/2021,7/30/2021,0.657,4.58,easily broken up,80.7,0.000,190,1.07,20.3,0.926,0.421,19.6,0.926,-79.809,39.5057
+Reedsville,10,Willow,BioChar + Fertilizer,7/29/2021,7/30/2021,0.667,4.09,easily broken up,80.7,0.000,190,1.07,20.3,0.926,0.421,19.6,0.926,-79.8097,39.50597
+Reedsville,11,Willow,Fertilizer,7/29/2021,7/30/2021,0.7065,4.21,easily broken up,80.7,0.000,190,1.07,20.3,0.926,0.421,19.6,0.926,-79.8085,39.50552
+Reedsville,12,Willow,Control,7/29/2021,7/30/2021,0.7105,4.3,easily broken up,80.7,0.000,190,1.07,20.3,0.926,0.421,19.6,0.926,-79.8081,39.50528
+Reedsville,22,Switchgrass,BioChar + Fertilizer,7/29/2021,7/30/2021,0.566,4.53,easily broken up,80.7,0.000,190,1.07,20.3,0.926,0.421,19.6,0.926,-79.8083,39.50537
+Reedsville,23,Switchgrass,Fertilizer,7/29/2021,7/30/2021,0.56,4.3,easily broken up,80.7,0.000,190,1.07,20.3,0.926,0.421,19.6,0.926,-79.8093,39.50581
+Reedsville,24,Switchgrass,Control,7/29/2021,7/30/2021,0.6165,4.29,easily broken up,80.7,0.000,190,1.07,20.3,0.926,0.421,19.6,0.926,-79.8097,39.50609
+Reedsville,1,Switchgrass,Control,10/28/2021,10/29/2021,0.579,4.58,"easily broken up, few roots and leaves",143.0,0.102,132,2.12,11.7,0.945,0.404,12.9,0.945,-79.8079,39.50496
+Reedsville,2,Switchgrass,Fertilizer,10/28/2021,10/29/2021,0.5235,4.5,"easily broken up, few roots and leaves",143.0,0.102,132,2.12,11.7,0.945,0.404,12.9,0.945,-79.8098,39.50596
+Reedsville,3,Switchgrass,BioChar + Fertilizer,10/28/2021,10/29/2021,0.5055,4.6,"easily broken up, few roots and leaves",143.0,0.102,132,2.12,11.7,0.945,0.404,12.9,0.945,-79.8086,39.50549
+Reedsville,13,Willow,Fertilizer,10/28/2021,10/29/2021,0.657,4.07,"easily broken up, few roots and leaves",143.0,0.102,132,2.12,11.7,0.945,0.404,12.9,0.945,-79.8083,39.50526
+Reedsville,14,Willow,BioChar + Fertilizer,10/28/2021,10/29/2021,0.6425,4.43,easily broken up,143.0,0.102,132,2.12,11.7,0.945,0.404,12.9,0.945,-79.8087,39.50547
+Reedsville,15,Willow,Control,10/28/2021,10/29/2021,0.6235,4.58,easily broken up,143.0,0.102,132,2.12,11.7,0.945,0.404,12.9,0.945,-79.8089,39.50555
+Reedsville,10,Willow,BioChar + Fertilizer,10/28/2021,10/29/2021,0.538,4.09,easily broken up,143.0,0.102,132,2.12,11.7,0.945,0.404,12.9,0.945,-79.8083,39.50511
+Reedsville,11,Willow,Fertilizer,10/28/2021,10/29/2021,0.556,4.21,easily broken up,143.0,0.102,132,2.12,11.7,0.945,0.404,12.9,0.945,-79.8089,39.50565
+Reedsville,12,Willow,Control,10/28/2021,10/29/2021,0.5955,4.3,easily broken up,143.0,0.102,132,2.12,11.7,0.945,0.404,12.9,0.945,-79.8093,39.50579
+Reedsville,22,Switchgrass,BioChar + Fertilizer,10/28/2021,10/29/2021,0.571,4.53,easily broken up,143.0,0.102,132,2.12,11.7,0.945,0.404,12.9,0.945,-79.8084,39.50535
+Reedsville,23,Switchgrass,Fertilizer,10/28/2021,10/29/2021,0.516,4.3,easily broken up,143.0,0.102,132,2.12,11.7,0.945,0.404,12.9,0.945,-79.808,39.50491
+Reedsville,24,Switchgrass,Control,10/28/2021,10/29/2021,0.5125,4.29,easily broken up,143.0,0.102,132,2.12,11.7,0.945,0.404,12.9,0.945,-79.8091,39.50581
+Reedsville,1,Switchgrass,Control,1/27/2022,1/28/2022,0.715,4.58,"easily broken up, few roots and leaves",50.7,0.000,266,1.12,-2.8,0.949,0.361,8.5,0.949,-79.8085,39.50557
+Reedsville,2,Switchgrass,Fertilizer,1/27/2022,1/28/2022,0.466,4.5,"easily broken up, few roots and leaves",50.7,0.000,266,1.12,-2.8,0.949,0.361,8.5,0.949,-79.8077,39.50511
+Reedsville,3,Switchgrass,BioChar + Fertilizer,1/27/2022,1/28/2022,0.457,4.6,"easily broken up, few roots and leaves",50.7,0.000,266,1.12,-2.8,0.949,0.361,8.5,0.949,-79.8082,39.50502
+Reedsville,13,Willow,Fertilizer,1/27/2022,1/28/2022,0.4365,4.07,"easily broken up, few roots and leaves",50.7,0.000,266,1.12,-2.8,0.949,0.361,8.5,0.949,-79.8088,39.50556
+Reedsville,14,Willow,BioChar + Fertilizer,1/27/2022,1/28/2022,0.417,4.43,easily broken up,50.7,0.000,266,1.12,-2.8,0.949,0.361,8.5,0.949,-79.8088,39.50542
+Reedsville,15,Willow,Control,1/27/2022,1/28/2022,0.431,4.58,easily broken up,50.7,0.000,266,1.12,-2.8,0.949,0.361,8.5,0.949,-79.8093,39.506
+Reedsville,10,Willow,BioChar + Fertilizer,1/27/2022,1/28/2022,0.529,4.09,easily broken up,50.7,0.000,266,1.12,-2.8,0.949,0.361,8.5,0.949,-79.8084,39.50539
+Reedsville,11,Willow,Fertilizer,1/27/2022,1/28/2022,0.4495,4.21,easily broken up,50.7,0.000,266,1.12,-2.8,0.949,0.361,8.5,0.949,-79.8085,39.50538
+Reedsville,12,Willow,Control,1/27/2022,1/28/2022,0.4585,4.3,easily broken up,50.7,0.000,266,1.12,-2.8,0.949,0.361,8.5,0.949,-79.8098,39.5061
+Reedsville,22,Switchgrass,BioChar + Fertilizer,1/27/2022,1/28/2022,0.542,4.53,easily broken up,50.7,0.000,266,1.12,-2.8,0.949,0.361,8.5,0.949,-79.8093,39.5057
+Reedsville,23,Switchgrass,Fertilizer,1/27/2022,1/28/2022,0.511,4.3,easily broken up,50.7,0.000,266,1.12,-2.8,0.949,0.361,8.5,0.949,-79.8091,39.50582
+Reedsville,24,Switchgrass,Control,1/27/2022,1/28/2022,0.3995,4.29,easily broken up,50.7,0.000,266,1.12,-2.8,0.949,0.361,8.5,0.949,-79.8087,39.50566
+Reedsville,1,Switchgrass,Control,4/28/2022,4/29/2022,0.8095,4.58,"easily broken up, few roots and leaves",561.0,0.000,20,1.77,7.1,0.504,0.350,8.6,0.504,-79.8087,39.50552
+Reedsville,2,Switchgrass,Fertilizer,4/28/2022,4/29/2022,0.7215,4.5,"easily broken up, few roots and leaves",561.0,0.000,20,1.77,7.1,0.504,0.350,8.6,0.504,-79.8089,39.5056
+Reedsville,3,Switchgrass,BioChar + Fertilizer,4/28/2022,4/29/2022,0.667,4.6,"easily broken up, few roots and leaves",561.0,0.000,20,1.77,7.1,0.504,0.350,8.6,0.504,-79.8087,39.50535
+Reedsville,13,Willow,Fertilizer,4/28/2022,4/29/2022,0.445,4.07,"easily broken up, few roots and leaves",561.0,0.000,20,1.77,7.1,0.504,0.350,8.6,0.504,-79.8081,39.50519
+Reedsville,14,Willow,BioChar + Fertilizer,4/28/2022,4/29/2022,0.559,4.43,easily broken up,561.0,0.000,20,1.77,7.1,0.504,0.350,8.6,0.504,-79.8087,39.5056
+Reedsville,15,Willow,Control,4/28/2022,4/29/2022,0.58,4.58,easily broken up,561.0,0.000,20,1.77,7.1,0.504,0.350,8.6,0.504,-79.8086,39.5055
+Reedsville,10,Willow,BioChar + Fertilizer,4/28/2022,4/29/2022,0.586,4.09,easily broken up,561.0,0.000,20,1.77,7.1,0.504,0.350,8.6,0.504,-79.8091,39.50564
+Reedsville,11,Willow,Fertilizer,4/28/2022,4/29/2022,0.6095,4.21,easily broken up,561.0,0.000,20,1.77,7.1,0.504,0.350,8.6,0.504,-79.8097,39.50621
+Reedsville,12,Willow,Control,4/28/2022,4/29/2022,0.5815,4.3,easily broken up,561.0,0.000,20,1.77,7.1,0.504,0.350,8.6,0.504,-79.8092,39.50568
+Reedsville,22,Switchgrass,BioChar + Fertilizer,4/28/2022,4/29/2022,0.5155,4.53,easily broken up,561.0,0.000,20,1.77,7.1,0.504,0.350,8.6,0.504,-79.8096,39.50591
+Reedsville,23,Switchgrass,Fertilizer,4/28/2022,4/29/2022,0.5885,4.3,easily broken up,561.0,0.000,20,1.77,7.1,0.504,0.350,8.6,0.504,-79.8086,39.50525
+Reedsville,24,Switchgrass,Control,4/28/2022,4/29/2022,0.497,4.29,easily broken up,561.0,0.000,20,1.77,7.1,0.504,0.350,8.6,0.504,-79.8095,39.50601
+Reedsville,1,Switchgrass,Control,7/28/2022,7/29/2022,0.5255,4.06,"easily broken up, few roots and leaves",0.0,0.136,130,0.46,22.1,95.72,0.394,21.0,0.9572,-79.809,39.50575
+Reedsville,2,Switchgrass,Fertilizer,7/28/2022,7/29/2022,0.416,4.89,"easily broken up, few roots and leaves",0.0,0.136,130,0.46,22.1,95.72,0.394,21.0,0.9572,-79.8094,39.50586
+Reedsville,3,Switchgrass,BioChar + Fertilizer,7/28/2022,7/29/2022,0.4315,5.02,"easily broken up, few roots and leaves",0.0,0.136,130,0.46,22.1,95.72,0.394,21.0,0.9572,-79.8086,39.50539
+Reedsville,13,Willow,Fertilizer,7/28/2022,7/29/2022,0.462,5.09,"easily broken up, few roots and leaves",0.0,0.136,130,0.46,22.1,95.72,0.394,21.0,0.9572,-79.8097,39.50599
+Reedsville,14,Willow,BioChar + Fertilizer,7/28/2022,7/29/2022,0.4015,5.17,easily broken up,0.0,0.136,130,0.46,22.1,95.72,0.394,21.0,0.9572,-79.809,39.50586
+Reedsville,15,Willow,Control,7/28/2022,7/29/2022,0.427,4.76,easily broken up,0.0,0.136,130,0.46,22.1,95.72,0.394,21.0,0.9572,-79.8093,39.50598
+Reedsville,10,Willow,BioChar + Fertilizer,7/28/2022,7/29/2022,0.451,5,easily broken up,0.0,0.136,130,0.46,22.1,95.72,0.394,21.0,0.9572,-79.8086,39.50541
+Reedsville,11,Willow,Fertilizer,7/28/2022,7/29/2022,0.45,4.94,easily broken up,0.0,0.136,130,0.46,22.1,95.72,0.394,21.0,0.9572,-79.809,39.50584
+Reedsville,12,Willow,Control,7/28/2022,7/29/2022,0.4285,4.88,easily broken up,0.0,0.136,130,0.46,22.1,95.72,0.394,21.0,0.9572,-79.808,39.50498
+Reedsville,22,Switchgrass,BioChar + Fertilizer,7/28/2022,7/29/2022,0.4145,4.92,easily broken up,0.0,0.136,130,0.46,22.1,95.72,0.394,21.0,0.9572,-79.8078,39.5051
+Reedsville,23,Switchgrass,Fertilizer,7/28/2022,7/29/2022,0.4255,5.21,easily broken up,0.0,0.136,130,0.46,22.1,95.72,0.394,21.0,0.9572,-79.8091,39.50564
+Reedsville,24,Switchgrass,Control,7/28/2022,7/29/2022,0.354,5.08,easily broken up,0.0,0.136,130,0.46,22.1,95.72,0.394,21.0,0.9572,-79.8085,39.5055
+Reedsville,1,Switchgrass,Control,10/27/2022,10/28/2022,0.471,4.06,"easily broken up, few roots and leaves",242.0,0.000,164,2.07,9.0,96.95,0.370,9.9,0.9695,-79.8098,39.50609
+Reedsville,2,Switchgrass,Fertilizer,10/27/2022,10/28/2022,0.462,4.89,"easily broken up, few roots and leaves",242.0,0.000,164,2.07,9.0,96.95,0.370,9.9,0.9695,-79.8087,39.5055
+Reedsville,3,Switchgrass,BioChar + Fertilizer,10/27/2022,10/28/2022,0.447,5.02,"easily broken up, few roots and leaves",242.0,0.000,164,2.07,9.0,96.95,0.370,9.9,0.9695,-79.8092,39.50564
+Reedsville,13,Willow,Fertilizer,10/27/2022,10/28/2022,0.432,5.09,"easily broken up, few roots and leaves",242.0,0.000,164,2.07,9.0,96.95,0.370,9.9,0.9695,-79.8089,39.50577
+Reedsville,14,Willow,BioChar + Fertilizer,10/27/2022,10/28/2022,0.6115,5.17,easily broken up,242.0,0.000,164,2.07,9.0,96.95,0.370,9.9,0.9695,-79.8082,39.50507
+Reedsville,15,Willow,Control,10/27/2022,10/28/2022,0.4245,4.76,easily broken up,242.0,0.000,164,2.07,9.0,96.95,0.370,9.9,0.9695,-79.8081,39.5053
+Reedsville,10,Willow,BioChar + Fertilizer,10/27/2022,10/28/2022,0.3595,5,easily broken up,242.0,0.000,164,2.07,9.0,96.95,0.370,9.9,0.9695,-79.8088,39.50566
+Reedsville,11,Willow,Fertilizer,10/27/2022,10/28/2022,0.359,4.94,easily broken up,242.0,0.000,164,2.07,9.0,96.95,0.370,9.9,0.9695,-79.8087,39.50552
+Reedsville,12,Willow,Control,10/27/2022,10/28/2022,0.358,4.88,easily broken up,242.0,0.000,164,2.07,9.0,96.95,0.370,9.9,0.9695,-79.8078,39.505
+Reedsville,22,Switchgrass,BioChar + Fertilizer,10/27/2022,10/28/2022,0.46,4.92,easily broken up,242.0,0.000,164,2.07,9.0,96.95,0.370,9.9,0.9695,-79.8092,39.50596
+Reedsville,23,Switchgrass,Fertilizer,10/27/2022,10/28/2022,0.482,5.21,easily broken up,242.0,0.000,164,2.07,9.0,96.95,0.370,9.9,0.9695,-79.8095,39.50578
+Reedsville,24,Switchgrass,Control,10/27/2022,10/28/2022,0.3815,5.08,easily broken up,242.0,0.000,164,2.07,9.0,96.95,0.370,9.9,0.9695,-79.8077,39.5051
+Reedsville,1,Switchgrass,Control,1/19/2023,1/20/2023,0.4655,4.06,"easily broken up, few roots and leaves",38.5,0.000,269,1.10,0.2,95.31,0.424,4.8,0.9531,-79.8086,39.50547
+Reedsville,2,Switchgrass,Fertilizer,1/19/2023,1/20/2023,0.5445,4.89,"easily broken up, few roots and leaves",38.5,0.000,269,1.10,0.2,95.31,0.424,4.8,0.9531,-79.809,39.50554
+Reedsville,3,Switchgrass,BioChar + Fertilizer,1/19/2023,1/20/2023,0.471,5.02,"easily broken up, few roots and leaves",38.5,0.000,269,1.10,0.2,95.31,0.424,4.8,0.9531,-79.8079,39.50508
+Reedsville,13,Willow,Fertilizer,1/19/2023,1/20/2023,0.4895,5.09,"easily broken up, few roots and leaves",38.5,0.000,269,1.10,0.2,95.31,0.424,4.8,0.9531,-79.8082,39.5052
+Reedsville,14,Willow,BioChar + Fertilizer,1/19/2023,1/20/2023,0.3925,5.17,easily broken up,38.5,0.000,269,1.10,0.2,95.31,0.424,4.8,0.9531,-79.8081,39.50523
+Reedsville,15,Willow,Control,1/19/2023,1/20/2023,0.4055,4.76,easily broken up,38.5,0.000,269,1.10,0.2,95.31,0.424,4.8,0.9531,-79.8088,39.5055
+Reedsville,10,Willow,BioChar + Fertilizer,1/19/2023,1/20/2023,0.468,5,easily broken up,38.5,0.000,269,1.10,0.2,95.31,0.424,4.8,0.9531,-79.8095,39.50595
+Reedsville,11,Willow,Fertilizer,1/19/2023,1/20/2023,0.558,4.94,easily broken up,38.5,0.000,269,1.10,0.2,95.31,0.424,4.8,0.9531,-79.8085,39.50524
+Reedsville,12,Willow,Control,1/19/2023,1/20/2023,0.5495,4.88,easily broken up,38.5,0.000,269,1.10,0.2,95.31,0.424,4.8,0.9531,-79.8083,39.50544
+Reedsville,22,Switchgrass,BioChar + Fertilizer,1/19/2023,1/20/2023,0.485,4.92,easily broken up,38.5,0.000,269,1.10,0.2,95.31,0.424,4.8,0.9531,-79.8096,39.50607
+Reedsville,23,Switchgrass,Fertilizer,1/19/2023,1/20/2023,0.4745,5.21,easily broken up,38.5,0.000,269,1.10,0.2,95.31,0.424,4.8,0.9531,-79.8093,39.50594
+Reedsville,24,Switchgrass,Control,1/19/2023,1/20/2023,0.4475,5.08,easily broken up,38.5,0.000,269,1.10,0.2,95.31,0.424,4.8,0.9531,-79.8079,39.50512
