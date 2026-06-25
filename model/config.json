@@ -1,0 +1,22 @@
+{
+  "num_cols": [
+    "SRadiation",
+    "Prec",
+    "WD",
+    "WS",
+    "AT",
+    "WC",
+    "ST",
+    "RH ",
+    "pH"
+  ],
+  "cat_cols": [
+    "Crop",
+    "Treatment",
+    "Site Name"
+  ],
+  "text_col": "Notes",
+  "target": "NO3",
+  "wc_threshold": 0.4,
+  "pca_components": 2
+}
